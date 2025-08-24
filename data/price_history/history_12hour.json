@@ -1,12 +1,6 @@
 {
   "1042256": [
     {
-      "timestamp": "2025-08-23T00:35:42.159690",
-      "price": 1975000,
-      "item_name": "Eagle Eye Ranger Cowl",
-      "data_points": 16
-    },
-    {
       "timestamp": "2025-08-23T00:53:29.729453",
       "price": 1973529,
       "item_name": "Eagle Eye Ranger Cowl",
@@ -359,15 +353,15 @@
       "price": 1700000,
       "item_name": "Eagle Eye Ranger Cowl",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:54.924964",
+      "price": 1700000,
+      "item_name": "Eagle Eye Ranger Cowl",
+      "data_points": 12
     }
   ],
   "1152111": [
-    {
-      "timestamp": "2025-08-23T00:35:42.167194",
-      "price": 601388,
-      "item_name": "Falcon Wing Sentinel Shoulder",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.740361",
       "price": 601568,
@@ -721,15 +715,15 @@
       "price": 600000,
       "item_name": "Falcon Wing Sentinel Shoulder",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:54.933315",
+      "price": 600000,
+      "item_name": "Falcon Wing Sentinel Shoulder",
+      "data_points": 12
     }
   ],
   "1152108": [
-    {
-      "timestamp": "2025-08-23T00:35:42.174454",
-      "price": 899999,
-      "item_name": "Lionheart Battle Shoulder",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.754780",
       "price": 899999,
@@ -1083,15 +1077,15 @@
       "price": 943454,
       "item_name": "Lionheart Battle Shoulder",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:54.941493",
+      "price": 931499,
+      "item_name": "Lionheart Battle Shoulder",
+      "data_points": 12
     }
   ],
   "1152112": [
-    {
-      "timestamp": "2025-08-23T00:35:42.181688",
-      "price": 519860,
-      "item_name": "Raven Horn Chaser Shoulder",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.770045",
       "price": 520391,
@@ -1445,15 +1439,15 @@
       "price": 593363,
       "item_name": "Raven Horn Chaser Shoulder",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:54.949771",
+      "price": 588916,
+      "item_name": "Raven Horn Chaser Shoulder",
+      "data_points": 12
     }
   ],
   "1152113": [
-    {
-      "timestamp": "2025-08-23T00:35:42.188736",
-      "price": 678888,
-      "item_name": "Shark Tooth Skipper Shoulder",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.778335",
       "price": 678888,
@@ -1807,15 +1801,15 @@
       "price": 733333,
       "item_name": "Shark Tooth Skipper Shoulder",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:54.958322",
+      "price": 733333,
+      "item_name": "Shark Tooth Skipper Shoulder",
+      "data_points": 12
     }
   ],
   "1062167": [
-    {
-      "timestamp": "2025-08-23T00:35:42.195886",
-      "price": 2000000,
-      "item_name": "Trixter Ranger Pants",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.785565",
       "price": 2000000,
@@ -2169,15 +2163,15 @@
       "price": 1954545,
       "item_name": "Trixter Ranger Pants",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:54.965975",
+      "price": 1958333,
+      "item_name": "Trixter Ranger Pants",
+      "data_points": 12
     }
   ],
   "1062168": [
-    {
-      "timestamp": "2025-08-23T00:35:42.202919",
-      "price": 2398611,
-      "item_name": "Trixter Assassin Pants",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.792683",
       "price": 2404575,
@@ -2531,15 +2525,15 @@
       "price": 2320000,
       "item_name": "Trixter Assassin Pants",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:54.973575",
+      "price": 2320000,
+      "item_name": "Trixter Assassin Pants",
+      "data_points": 12
     }
   ],
   "1062165": [
-    {
-      "timestamp": "2025-08-23T00:35:42.210085",
-      "price": 5297916,
-      "item_name": "Trixter Warrior Pants",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.799907",
       "price": 5297385,
@@ -2893,15 +2887,15 @@
       "price": 4900000,
       "item_name": "Trixter Warrior Pants",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:54.981176",
+      "price": 4900000,
+      "item_name": "Trixter Warrior Pants",
+      "data_points": 12
     }
   ],
   "1003799": [
-    {
-      "timestamp": "2025-08-23T00:35:42.217145",
-      "price": 2222222,
-      "item_name": "Royal Ranger Beret",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.807012",
       "price": 2222222,
@@ -3255,15 +3249,15 @@
       "price": 2222222,
       "item_name": "Royal Ranger Beret",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:54.989527",
+      "price": 2222222,
+      "item_name": "Royal Ranger Beret",
+      "data_points": 12
     }
   ],
   "1492179": [
-    {
-      "timestamp": "2025-08-23T00:35:42.231374",
-      "price": 14812500,
-      "item_name": "Fafnir Zeliska",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.821248",
       "price": 14764705,
@@ -3617,15 +3611,15 @@
       "price": 14000000,
       "item_name": "Fafnir Zeliska",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.004281",
+      "price": 14000000,
+      "item_name": "Fafnir Zeliska",
+      "data_points": 12
     }
   ],
   "1442223": [
-    {
-      "timestamp": "2025-08-23T00:35:42.252953",
-      "price": 10000000,
-      "item_name": "Fafnir Moon Glaive",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.842638",
       "price": 10000000,
@@ -3979,15 +3973,15 @@
       "price": 9000000,
       "item_name": "Fafnir Moon Glaive",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.027524",
+      "price": 9000000,
+      "item_name": "Fafnir Moon Glaive",
+      "data_points": 12
     }
   ],
   "1482168": [
-    {
-      "timestamp": "2025-08-23T00:35:42.274767",
-      "price": 7965971,
-      "item_name": "Fafnir Perry Talon",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.864383",
       "price": 7979084,
@@ -4341,15 +4335,15 @@
       "price": 6763333,
       "item_name": "Fafnir Perry Talon",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.051953",
+      "price": 6783055,
+      "item_name": "Fafnir Perry Talon",
+      "data_points": 12
     }
   ],
   "1472214": [
-    {
-      "timestamp": "2025-08-23T00:35:42.283535",
-      "price": 6599999,
-      "item_name": "Fafnir Risk Holder",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.871496",
       "price": 6599999,
@@ -4703,15 +4697,15 @@
       "price": 5000000,
       "item_name": "Fafnir Risk Holder",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.059550",
+      "price": 5000000,
+      "item_name": "Fafnir Risk Holder",
+      "data_points": 12
     }
   ],
   "1382208": [
-    {
-      "timestamp": "2025-08-23T00:35:42.290751",
-      "price": 11000000,
-      "item_name": "Fafnir Mana Crown",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.878709",
       "price": 10911764,
@@ -5065,15 +5059,15 @@
       "price": 9500000,
       "item_name": "Fafnir Mana Crown",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.067041",
+      "price": 9500000,
+      "item_name": "Fafnir Mana Crown",
+      "data_points": 12
     }
   ],
   "1382285": [
-    {
-      "timestamp": "2025-08-23T00:35:42.297774",
-      "price": 950000,
-      "item_name": "Unchained Staff",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.885913",
       "price": 951837,
@@ -5427,15 +5421,15 @@
       "price": 989000,
       "item_name": "Unchained Staff",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.074508",
+      "price": 989000,
+      "item_name": "Unchained Staff",
+      "data_points": 12
     }
   ],
   "1352232": [
-    {
-      "timestamp": "2025-08-23T00:35:42.304901",
-      "price": 524375,
-      "item_name": "Rusty Book <Epode>",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.893221",
       "price": 524705,
@@ -5789,15 +5783,15 @@
       "price": 493323,
       "item_name": "Rusty Book <Epode>",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.082630",
+      "price": 489712,
+      "item_name": "Rusty Book <Epode>",
+      "data_points": 12
     }
   ],
   "1372249": [
-    {
-      "timestamp": "2025-08-23T00:35:42.312031",
-      "price": 1265625,
-      "item_name": "Unchained Wand",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.900447",
       "price": 1261764,
@@ -6151,15 +6145,15 @@
       "price": 838154,
       "item_name": "Unchained Wand",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.091842",
+      "price": 838678,
+      "item_name": "Unchained Wand",
+      "data_points": 12
     }
   ],
   "1352233": [
-    {
-      "timestamp": "2025-08-23T00:35:42.319099",
-      "price": 504062,
-      "item_name": "Evolving Rusty Book <Epode>",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.908051",
       "price": 503823,
@@ -6513,15 +6507,15 @@
       "price": 500000,
       "item_name": "Evolving Rusty Book <Epode>",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.100533",
+      "price": 500000,
+      "item_name": "Evolving Rusty Book <Epode>",
+      "data_points": 12
     }
   ],
   "1352252": [
-    {
-      "timestamp": "2025-08-23T00:35:42.326294",
-      "price": 1550000,
-      "item_name": "White Gold Book <Epode>",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.915456",
       "price": 1550000,
@@ -6875,15 +6869,15 @@
       "price": 1264000,
       "item_name": "White Gold Book <Epode>",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.108146",
+      "price": 1264000,
+      "item_name": "White Gold Book <Epode>",
+      "data_points": 12
     }
   ],
   "1382242": [
-    {
-      "timestamp": "2025-08-23T00:35:42.333448",
-      "price": 433333,
-      "item_name": "Zakum's Poisonic Staff",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.922850",
       "price": 432548,
@@ -7237,15 +7231,15 @@
       "price": 342545,
       "item_name": "Zakum's Poisonic Staff",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.115593",
+      "price": 339000,
+      "item_name": "Zakum's Poisonic Staff",
+      "data_points": 12
     }
   ],
   "1372204": [
-    {
-      "timestamp": "2025-08-23T00:35:42.340668",
-      "price": 407916,
-      "item_name": "Zakum's Poisonic Wand",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.931475",
       "price": 406627,
@@ -7599,15 +7593,15 @@
       "price": 422890,
       "item_name": "Zakum's Poisonic Wand",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.123103",
+      "price": 423883,
+      "item_name": "Zakum's Poisonic Wand",
+      "data_points": 12
     }
   ],
   "1352253": [
-    {
-      "timestamp": "2025-08-23T00:35:42.347782",
-      "price": 1590374,
-      "item_name": "Evolving White Gold Book <Epode>",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.938636",
       "price": 1587646,
@@ -7961,15 +7955,15 @@
       "price": 1500000,
       "item_name": "Evolving White Gold Book <Epode>",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.130511",
+      "price": 1500000,
+      "item_name": "Evolving White Gold Book <Epode>",
+      "data_points": 12
     }
   ],
   "1382159": [
-    {
-      "timestamp": "2025-08-23T00:35:42.355106",
-      "price": 740000,
-      "item_name": "Necro Rod",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.945867",
       "price": 724705,
@@ -8323,15 +8317,15 @@
       "price": 398161,
       "item_name": "Necro Rod",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.138009",
+      "price": 398222,
+      "item_name": "Necro Rod",
+      "data_points": 12
     }
   ],
   "1372132": [
-    {
-      "timestamp": "2025-08-23T00:35:42.362284",
-      "price": 637500,
-      "item_name": "Necro Wand",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.953063",
       "price": 635294,
@@ -8685,15 +8679,15 @@
       "price": 425000,
       "item_name": "Necro Wand",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.145479",
+      "price": 425000,
+      "item_name": "Necro Wand",
+      "data_points": 12
     }
   ],
   "1352243": [
-    {
-      "timestamp": "2025-08-23T00:35:42.369435",
-      "price": 815207,
-      "item_name": "Evolving Metallic Blue Book <Epode>",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.960285",
       "price": 815489,
@@ -9047,15 +9041,15 @@
       "price": 826362,
       "item_name": "Evolving Metallic Blue Book <Epode>",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.152892",
+      "price": 814166,
+      "item_name": "Evolving Metallic Blue Book <Epode>",
+      "data_points": 12
     }
   ],
   "1352242": [
-    {
-      "timestamp": "2025-08-23T00:35:42.376908",
-      "price": 784125,
-      "item_name": "Metallic Blue Book <Epode>",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.967558",
       "price": 782117,
@@ -9409,15 +9403,15 @@
       "price": 683636,
       "item_name": "Metallic Blue Book <Epode>",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.160355",
+      "price": 685000,
+      "item_name": "Metallic Blue Book <Epode>",
+      "data_points": 12
     }
   ],
   "1382246": [
-    {
-      "timestamp": "2025-08-23T00:35:42.384080",
-      "price": 870000,
-      "item_name": "Royal Von Leon Staff",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.974820",
       "price": 870000,
@@ -9771,15 +9765,15 @@
       "price": 860979,
       "item_name": "Royal Von Leon Staff",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.167785",
+      "price": 854972,
+      "item_name": "Royal Von Leon Staff",
+      "data_points": 12
     }
   ],
   "1372208": [
-    {
-      "timestamp": "2025-08-23T00:35:42.391145",
-      "price": 766044,
-      "item_name": "Royal Von Leon Wand",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.982045",
       "price": 766044,
@@ -10133,15 +10127,15 @@
       "price": 1853636,
       "item_name": "Royal Von Leon Wand",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.175239",
+      "price": 1765000,
+      "item_name": "Royal Von Leon Wand",
+      "data_points": 12
     }
   ],
   "1422066": [
-    {
-      "timestamp": "2025-08-23T00:35:42.398316",
-      "price": 330000,
-      "item_name": "Lionheart Blast Maul",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.989314",
       "price": 330000,
@@ -10495,15 +10489,15 @@
       "price": 330000,
       "item_name": "Lionheart Blast Maul",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.182658",
+      "price": 330000,
+      "item_name": "Lionheart Blast Maul",
+      "data_points": 12
     }
   ],
   "1352213": [
-    {
-      "timestamp": "2025-08-23T00:35:42.405414",
-      "price": 462687,
-      "item_name": "Evolving Sacred Rosary",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.997428",
       "price": 460823,
@@ -10857,15 +10851,15 @@
       "price": 473508,
       "item_name": "Evolving Sacred Rosary",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.190037",
+      "price": 471133,
+      "item_name": "Evolving Sacred Rosary",
+      "data_points": 12
     }
   ],
   "1412065": [
-    {
-      "timestamp": "2025-08-23T00:35:42.412615",
-      "price": 339999,
-      "item_name": "Lionheart Battle Axe",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.004761",
       "price": 339999,
@@ -11219,15 +11213,15 @@
       "price": 339999,
       "item_name": "Lionheart Battle Axe",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.197571",
+      "price": 339999,
+      "item_name": "Lionheart Battle Axe",
+      "data_points": 12
     }
   ],
   "1352203": [
-    {
-      "timestamp": "2025-08-23T00:35:42.419731",
-      "price": 391353,
-      "item_name": "Evolving Virtues Medal",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.011927",
       "price": 391215,
@@ -11581,15 +11575,15 @@
       "price": 365000,
       "item_name": "Evolving Virtues Medal",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.205086",
+      "price": 365000,
+      "item_name": "Evolving Virtues Medal",
+      "data_points": 12
     }
   ],
   "1442116": [
-    {
-      "timestamp": "2025-08-23T00:35:42.427625",
-      "price": 840000,
-      "item_name": "Lionheart Partisan",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.019212",
       "price": 840000,
@@ -11943,15 +11937,15 @@
       "price": 825000,
       "item_name": "Lionheart Partisan",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.212574",
+      "price": 825000,
+      "item_name": "Lionheart Partisan",
+      "data_points": 12
     }
   ],
   "1302152": [
-    {
-      "timestamp": "2025-08-23T00:35:42.434815",
-      "price": 340000,
-      "item_name": "Lionheart Cutlass",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.026319",
       "price": 340000,
@@ -12305,15 +12299,15 @@
       "price": 309999,
       "item_name": "Lionheart Cutlass",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.220058",
+      "price": 309165,
+      "item_name": "Lionheart Cutlass",
+      "data_points": 12
     }
   ],
   "1322096": [
-    {
-      "timestamp": "2025-08-23T00:35:42.441962",
-      "price": 298111,
-      "item_name": "Lionheart Battle Hammer",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.033534",
       "price": 298111,
@@ -12667,15 +12661,15 @@
       "price": 299673,
       "item_name": "Lionheart Battle Hammer",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.227641",
+      "price": 299673,
+      "item_name": "Lionheart Battle Hammer",
+      "data_points": 12
     }
   ],
   "1312065": [
-    {
-      "timestamp": "2025-08-23T00:35:42.449062",
-      "price": 330000,
-      "item_name": "Lionheart Champion Axe",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.040678",
       "price": 330000,
@@ -13029,15 +13023,15 @@
       "price": 330000,
       "item_name": "Lionheart Champion Axe",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.237636",
+      "price": 330000,
+      "item_name": "Lionheart Champion Axe",
+      "data_points": 12
     }
   ],
   "1352222": [
-    {
-      "timestamp": "2025-08-23T00:35:42.456194",
-      "price": 309652,
-      "item_name": "Berserk Chain",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.047910",
       "price": 308026,
@@ -13391,15 +13385,15 @@
       "price": 334361,
       "item_name": "Berserk Chain",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.252517",
+      "price": 334361,
+      "item_name": "Berserk Chain",
+      "data_points": 12
     }
   ],
   "1402288": [
-    {
-      "timestamp": "2025-08-23T00:35:42.463314",
-      "price": 318437,
-      "item_name": "Unchained Two-handed Sword",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.055073",
       "price": 318411,
@@ -13753,15 +13747,15 @@
       "price": 326039,
       "item_name": "Unchained Two-handed Sword",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.267654",
+      "price": 323869,
+      "item_name": "Unchained Two-handed Sword",
+      "data_points": 12
     }
   ],
   "1432238": [
-    {
-      "timestamp": "2025-08-23T00:35:42.470489",
-      "price": 363270,
-      "item_name": "Unchained Spear",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.062234",
       "price": 359549,
@@ -14115,15 +14109,15 @@
       "price": 329181,
       "item_name": "Unchained Spear",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.282355",
+      "price": 330916,
+      "item_name": "Unchained Spear",
+      "data_points": 12
     }
   ],
   "1422206": [
-    {
-      "timestamp": "2025-08-23T00:35:42.477944",
-      "price": 378999,
-      "item_name": "Unchained Two-handed Hammer",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.069474",
       "price": 378999,
@@ -14477,15 +14471,15 @@
       "price": 300000,
       "item_name": "Unchained Two-handed Hammer",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.290036",
+      "price": 300000,
+      "item_name": "Unchained Two-handed Hammer",
+      "data_points": 12
     }
   ],
   "1322277": [
-    {
-      "timestamp": "2025-08-23T00:35:42.485103",
-      "price": 316875,
-      "item_name": "Unchained Hammer",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.076779",
       "price": 316470,
@@ -14839,15 +14833,15 @@
       "price": 311111,
       "item_name": "Unchained Hammer",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.297667",
+      "price": 311111,
+      "item_name": "Unchained Hammer",
+      "data_points": 12
     }
   ],
   "1302371": [
-    {
-      "timestamp": "2025-08-23T00:35:42.492198",
-      "price": 299999,
-      "item_name": "Unchained Saber",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.083949",
       "price": 299999,
@@ -15201,15 +15195,15 @@
       "price": 300908,
       "item_name": "Unchained Saber",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.305356",
+      "price": 300832,
+      "item_name": "Unchained Saber",
+      "data_points": 12
     }
   ],
   "1302316": [
-    {
-      "timestamp": "2025-08-23T00:35:42.499345",
-      "price": 281686,
-      "item_name": "Royal Von Leon Saber",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.091166",
       "price": 281587,
@@ -15563,15 +15557,15 @@
       "price": 279000,
       "item_name": "Royal Von Leon Saber",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.313152",
+      "price": 279083,
+      "item_name": "Royal Von Leon Saber",
+      "data_points": 12
     }
   ],
   "1322237": [
-    {
-      "timestamp": "2025-08-23T00:35:42.506508",
-      "price": 276159,
-      "item_name": "Royal Von Leon Hammer",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.098367",
       "price": 276385,
@@ -15925,15 +15919,15 @@
       "price": 245454,
       "item_name": "Royal Von Leon Hammer",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.320827",
+      "price": 247499,
+      "item_name": "Royal Von Leon Hammer",
+      "data_points": 12
     }
   ],
   "1402205": [
-    {
-      "timestamp": "2025-08-23T00:35:42.513601",
-      "price": 685000,
-      "item_name": "Kaiserion",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.105527",
       "price": 685000,
@@ -16287,15 +16281,15 @@
       "price": 685000,
       "item_name": "Kaiserion",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.328465",
+      "price": 685000,
+      "item_name": "Kaiserion",
+      "data_points": 12
     }
   ],
   "1312186": [
-    {
-      "timestamp": "2025-08-23T00:35:42.520729",
-      "price": 269372,
-      "item_name": "Royal Von Leon Axe",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.112780",
       "price": 268821,
@@ -16649,15 +16643,15 @@
       "price": 277777,
       "item_name": "Royal Von Leon Axe",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.335962",
+      "price": 277777,
+      "item_name": "Royal Von Leon Axe",
+      "data_points": 12
     }
   ],
   "1442255": [
-    {
-      "timestamp": "2025-08-23T00:35:42.528078",
-      "price": 713281,
-      "item_name": "Royal Von Leon Hellslayer",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.120190",
       "price": 714470,
@@ -17011,15 +17005,15 @@
       "price": 726818,
       "item_name": "Royal Von Leon Hellslayer",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.343652",
+      "price": 726666,
+      "item_name": "Royal Von Leon Hellslayer",
+      "data_points": 12
     }
   ],
   "1422186": [
-    {
-      "timestamp": "2025-08-23T00:35:42.535288",
-      "price": 279999,
-      "item_name": "Royal Von Leon Two-Handed Hammer",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.127558",
       "price": 279999,
@@ -17373,15 +17367,15 @@
       "price": 277353,
       "item_name": "Royal Von Leon Two-Handed Hammer",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.351283",
+      "price": 277481,
+      "item_name": "Royal Von Leon Two-Handed Hammer",
+      "data_points": 12
     }
   ],
   "1412179": [
-    {
-      "timestamp": "2025-08-23T00:35:42.542510",
-      "price": 282465,
-      "item_name": "Royal Von Leon Two-Handed Axe",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.134923",
       "price": 282320,
@@ -17735,15 +17729,15 @@
       "price": 263272,
       "item_name": "Royal Von Leon Two-Handed Axe",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.358975",
+      "price": 264500,
+      "item_name": "Royal Von Leon Two-Handed Axe",
+      "data_points": 12
     }
   ],
   "1352202": [
-    {
-      "timestamp": "2025-08-23T00:35:42.549670",
-      "price": 342000,
-      "item_name": "Virtues Medallion",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.142303",
       "price": 342000,
@@ -18097,15 +18091,15 @@
       "price": 337965,
       "item_name": "Virtues Medallion",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.366540",
+      "price": 338110,
+      "item_name": "Virtues Medallion",
+      "data_points": 12
     }
   ],
   "1402237": [
-    {
-      "timestamp": "2025-08-23T00:35:42.556783",
-      "price": 278937,
-      "item_name": "Royal Von Leon Sword",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.149600",
       "price": 278882,
@@ -18459,15 +18453,15 @@
       "price": 279363,
       "item_name": "Royal Von Leon Sword",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.373975",
+      "price": 279416,
+      "item_name": "Royal Von Leon Sword",
+      "data_points": 12
     }
   ],
   "1432201": [
-    {
-      "timestamp": "2025-08-23T00:35:42.563934",
-      "price": 280859,
-      "item_name": "Royal Von Leon Spear",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.157879",
       "price": 280808,
@@ -18821,15 +18815,15 @@
       "price": 245000,
       "item_name": "Royal Von Leon Spear",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.381454",
+      "price": 245000,
+      "item_name": "Royal Von Leon Spear",
+      "data_points": 12
     }
   ],
   "1452111": [
-    {
-      "timestamp": "2025-08-23T00:35:42.571089",
-      "price": 475000,
-      "item_name": "Falcon Wing Composite Bow",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.165179",
       "price": 475176,
@@ -19183,15 +19177,15 @@
       "price": 478000,
       "item_name": "Falcon Wing Composite Bow",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.388838",
+      "price": 477666,
+      "item_name": "Falcon Wing Composite Bow",
+      "data_points": 12
     }
   ],
   "1352263": [
-    {
-      "timestamp": "2025-08-23T00:35:42.578254",
-      "price": 388888,
-      "item_name": "Evolving Blasted Feather",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.172490",
       "price": 388888,
@@ -19545,15 +19539,15 @@
       "price": 370000,
       "item_name": "Evolving Blasted Feather",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.396300",
+      "price": 370000,
+      "item_name": "Evolving Blasted Feather",
+      "data_points": 12
     }
   ],
   "1452283": [
-    {
-      "timestamp": "2025-08-23T00:35:42.585483",
-      "price": 541444,
-      "item_name": "Unchained Bow",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.179758",
       "price": 535738,
@@ -19907,15 +19901,15 @@
       "price": 388888,
       "item_name": "Unchained Bow",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.403650",
+      "price": 385647,
+      "item_name": "Unchained Bow",
+      "data_points": 12
     }
   ],
   "1352262": [
-    {
-      "timestamp": "2025-08-23T00:35:42.593300",
-      "price": 355437,
-      "item_name": "Blasted Feather",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.187039",
       "price": 356823,
@@ -20269,15 +20263,15 @@
       "price": 310000,
       "item_name": "Blasted Feather",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.411206",
+      "price": 310000,
+      "item_name": "Blasted Feather",
+      "data_points": 12
     }
   ],
   "1452239": [
-    {
-      "timestamp": "2025-08-23T00:35:42.600574",
-      "price": 369000,
-      "item_name": "Royal Von Leon Bow",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.194264",
       "price": 369000,
@@ -20631,15 +20625,15 @@
       "price": 377777,
       "item_name": "Royal Von Leon Bow",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.418785",
+      "price": 377528,
+      "item_name": "Royal Von Leon Bow",
+      "data_points": 12
     }
   ],
   "1352272": [
-    {
-      "timestamp": "2025-08-23T00:35:42.607826",
-      "price": 473892,
-      "item_name": "True Shot",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.201559",
       "price": 473892,
@@ -20993,15 +20987,15 @@
       "price": 440000,
       "item_name": "True Shot",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.426293",
+      "price": 440000,
+      "item_name": "True Shot",
+      "data_points": 12
     }
   ],
   "1462266": [
-    {
-      "timestamp": "2025-08-23T00:35:42.614942",
-      "price": 370000,
-      "item_name": "Unchained Crossbow",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.209099",
       "price": 365882,
@@ -21355,15 +21349,15 @@
       "price": 500000,
       "item_name": "Unchained Crossbow",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.433741",
+      "price": 500000,
+      "item_name": "Unchained Crossbow",
+      "data_points": 12
     }
   ],
   "1462226": [
-    {
-      "timestamp": "2025-08-23T00:35:42.622107",
-      "price": 360249,
-      "item_name": "Royal Von Leon Crossbow",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.216506",
       "price": 361941,
@@ -21717,15 +21711,15 @@
       "price": 379000,
       "item_name": "Royal Von Leon Crossbow",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.441152",
+      "price": 379000,
+      "item_name": "Royal Von Leon Crossbow",
+      "data_points": 12
     }
   ],
   "1352273": [
-    {
-      "timestamp": "2025-08-23T00:35:42.629293",
-      "price": 500000,
-      "item_name": "Evolving True Shot",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.223748",
       "price": 500000,
@@ -22079,15 +22073,15 @@
       "price": 498282,
       "item_name": "Evolving True Shot",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.448651",
+      "price": 498332,
+      "item_name": "Evolving True Shot",
+      "data_points": 12
     }
   ],
   "1452235": [
-    {
-      "timestamp": "2025-08-23T00:35:42.636485",
-      "price": 309867,
-      "item_name": "Zakum's Poisonic Bow",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.231045",
       "price": 310457,
@@ -22441,15 +22435,15 @@
       "price": 297888,
       "item_name": "Zakum's Poisonic Bow",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.456122",
+      "price": 294648,
+      "item_name": "Zakum's Poisonic Bow",
+      "data_points": 12
     }
   ],
   "1462222": [
-    {
-      "timestamp": "2025-08-23T00:35:42.643696",
-      "price": 377985,
-      "item_name": "Zakum's Poisonic Crossbow",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.241642",
       "price": 375751,
@@ -22803,15 +22797,15 @@
       "price": 368888,
       "item_name": "Zakum's Poisonic Crossbow",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.463669",
+      "price": 368888,
+      "item_name": "Zakum's Poisonic Crossbow",
+      "data_points": 12
     }
   ],
   "1452163": [
-    {
-      "timestamp": "2025-08-23T00:35:42.650842",
-      "price": 415000,
-      "item_name": "Necro Longbow",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.249092",
       "price": 415000,
@@ -23165,15 +23159,15 @@
       "price": 405808,
       "item_name": "Necro Longbow",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.471076",
+      "price": 402731,
+      "item_name": "Necro Longbow",
+      "data_points": 12
     }
   ],
   "1462153": [
-    {
-      "timestamp": "2025-08-23T00:35:42.658011",
-      "price": 386110,
-      "item_name": "Necro Crossbow",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.256430",
       "price": 384966,
@@ -23527,15 +23521,15 @@
       "price": 380000,
       "item_name": "Necro Crossbow",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.478652",
+      "price": 380000,
+      "item_name": "Necro Crossbow",
+      "data_points": 12
     }
   ],
   "1472122": [
-    {
-      "timestamp": "2025-08-23T00:35:42.665151",
-      "price": 464027,
-      "item_name": "Raven Horn Metal Fist",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.263702",
       "price": 461568,
@@ -23889,15 +23883,15 @@
       "price": 449494,
       "item_name": "Raven Horn Metal Fist",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.486131",
+      "price": 445369,
+      "item_name": "Raven Horn Metal Fist",
+      "data_points": 12
     }
   ],
   "1332130": [
-    {
-      "timestamp": "2025-08-23T00:35:42.672282",
-      "price": 570000,
-      "item_name": "Raven Horn Baselard",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.270917",
       "price": 570000,
@@ -24251,15 +24245,15 @@
       "price": 600000,
       "item_name": "Raven Horn Baselard",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.493560",
+      "price": 600000,
+      "item_name": "Raven Horn Baselard",
+      "data_points": 12
     }
   ],
   "1332301": [
-    {
-      "timestamp": "2025-08-23T00:35:42.679391",
-      "price": 740687,
-      "item_name": "Unchained Dagger",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.278091",
       "price": 739882,
@@ -24613,15 +24607,15 @@
       "price": 748000,
       "item_name": "Unchained Dagger",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.500959",
+      "price": 748000,
+      "item_name": "Unchained Dagger",
+      "data_points": 12
     }
   ],
   "1472286": [
-    {
-      "timestamp": "2025-08-23T00:35:42.686678",
-      "price": 485312,
-      "item_name": "Unchained Guards",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.285401",
       "price": 483529,
@@ -24975,15 +24969,15 @@
       "price": 481584,
       "item_name": "Unchained Guards",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.508605",
+      "price": 482178,
+      "item_name": "Unchained Guards",
+      "data_points": 12
     }
   ],
   "1352293": [
-    {
-      "timestamp": "2025-08-23T00:35:42.693884",
-      "price": 338750,
-      "item_name": "Evolving Death Sender Charm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.292609",
       "price": 338823,
@@ -25337,15 +25331,15 @@
       "price": 330000,
       "item_name": "Evolving Death Sender Charm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.516075",
+      "price": 330000,
+      "item_name": "Evolving Death Sender Charm",
+      "data_points": 12
     }
   ],
   "1352292": [
-    {
-      "timestamp": "2025-08-23T00:35:42.701186",
-      "price": 339373,
-      "item_name": "Death Sender Charm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.299828",
       "price": 341175,
@@ -25699,15 +25693,15 @@
       "price": 300000,
       "item_name": "Death Sender Charm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.523644",
+      "price": 300000,
+      "item_name": "Death Sender Charm",
+      "data_points": 12
     }
   ],
   "1472248": [
-    {
-      "timestamp": "2025-08-23T00:35:42.708477",
-      "price": 345312,
-      "item_name": "Royal Von Leon Guards",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.306965",
       "price": 345000,
@@ -26061,15 +26055,15 @@
       "price": 369999,
       "item_name": "Royal Von Leon Guards",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.531105",
+      "price": 369999,
+      "item_name": "Royal Von Leon Guards",
+      "data_points": 12
     }
   ],
   "1332261": [
-    {
-      "timestamp": "2025-08-23T00:35:42.715867",
-      "price": 385000,
-      "item_name": "Royal Von Leon Dagger",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.314287",
       "price": 385000,
@@ -26423,15 +26417,15 @@
       "price": 389845,
       "item_name": "Royal Von Leon Dagger",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.538629",
+      "price": 386525,
+      "item_name": "Royal Von Leon Dagger",
+      "data_points": 12
     }
   ],
   "1352283": [
-    {
-      "timestamp": "2025-08-23T00:35:42.723141",
-      "price": 1406250,
-      "item_name": "Evolving Slashing Shadow",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.321599",
       "price": 1408823,
@@ -26785,15 +26779,15 @@
       "price": 1309345,
       "item_name": "Evolving Slashing Shadow",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.546082",
+      "price": 1314356,
+      "item_name": "Evolving Slashing Shadow",
+      "data_points": 12
     }
   ],
   "1332187": [
-    {
-      "timestamp": "2025-08-23T00:35:42.730485",
-      "price": 365373,
-      "item_name": "Necro Slayer",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.328809",
       "price": 363468,
@@ -27147,15 +27141,15 @@
       "price": 326981,
       "item_name": "Necro Slayer",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.553605",
+      "price": 323807,
+      "item_name": "Necro Slayer",
+      "data_points": 12
     }
   ],
   "1352282": [
-    {
-      "timestamp": "2025-08-23T00:35:42.737777",
-      "price": 1291875,
-      "item_name": "Slashing Shadow",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.335985",
       "price": 1291176,
@@ -27509,15 +27503,15 @@
       "price": 1240000,
       "item_name": "Slashing Shadow",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.561062",
+      "price": 1240000,
+      "item_name": "Slashing Shadow",
+      "data_points": 12
     }
   ],
   "1472175": [
-    {
-      "timestamp": "2025-08-23T00:35:42.745026",
-      "price": 337000,
-      "item_name": "Necro Bloody Mist",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.343230",
       "price": 337000,
@@ -27871,15 +27865,15 @@
       "price": 302651,
       "item_name": "Necro Bloody Mist",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.568548",
+      "price": 302430,
+      "item_name": "Necro Bloody Mist",
+      "data_points": 12
     }
   ],
   "1472244": [
-    {
-      "timestamp": "2025-08-23T00:35:42.752318",
-      "price": 271625,
-      "item_name": "Zakum's Poisonic Guards",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.350484",
       "price": 273294,
@@ -28233,15 +28227,15 @@
       "price": 299999,
       "item_name": "Zakum's Poisonic Guards",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.576025",
+      "price": 299999,
+      "item_name": "Zakum's Poisonic Guards",
+      "data_points": 12
     }
   ],
   "1332257": [
-    {
-      "timestamp": "2025-08-23T00:35:42.759577",
-      "price": 320833,
-      "item_name": "Zakum's Poisonic Dagger",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.357735",
       "price": 320784,
@@ -28595,15 +28589,15 @@
       "price": 311413,
       "item_name": "Zakum's Poisonic Dagger",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.583555",
+      "price": 310045,
+      "item_name": "Zakum's Poisonic Dagger",
+      "data_points": 12
     }
   ],
   "1492085": [
-    {
-      "timestamp": "2025-08-23T00:35:42.768353",
-      "price": 1200000,
-      "item_name": "Shark Tooth Sharpshooter",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.364963",
       "price": 1200000,
@@ -28957,15 +28951,15 @@
       "price": 1200000,
       "item_name": "Shark Tooth Sharpshooter",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.591094",
+      "price": 1200000,
+      "item_name": "Shark Tooth Sharpshooter",
+      "data_points": 12
     }
   ],
   "1482084": [
-    {
-      "timestamp": "2025-08-23T00:35:42.775608",
-      "price": 718750,
-      "item_name": "Shark Tooth Wild Talon",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.372204",
       "price": 734117,
@@ -29319,15 +29313,15 @@
       "price": 905252,
       "item_name": "Shark Tooth Wild Talon",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.598556",
+      "price": 896481,
+      "item_name": "Shark Tooth Wild Talon",
+      "data_points": 12
     }
   ],
   "1492257": [
-    {
-      "timestamp": "2025-08-23T00:35:42.782854",
-      "price": 1250000,
-      "item_name": "Unchained Pistol",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.379488",
       "price": 1241176,
@@ -29681,15 +29675,15 @@
       "price": 1028181,
       "item_name": "Unchained Pistol",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.606058",
+      "price": 1019721,
+      "item_name": "Unchained Pistol",
+      "data_points": 12
     }
   ],
   "1482243": [
-    {
-      "timestamp": "2025-08-23T00:35:42.790085",
-      "price": 1321100,
-      "item_name": "Unchained Claw",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.386672",
       "price": 1313976,
@@ -30043,15 +30037,15 @@
       "price": 1497999,
       "item_name": "Unchained Claw",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.613588",
+      "price": 1498082,
+      "item_name": "Unchained Claw",
+      "data_points": 12
     }
   ],
   "1492213": [
-    {
-      "timestamp": "2025-08-23T00:35:42.797308",
-      "price": 1266396,
-      "item_name": "Royal Von Leon Pistol",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.394248",
       "price": 1250726,
@@ -30405,15 +30399,15 @@
       "price": 12421636,
       "item_name": "Royal Von Leon Pistol",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.621119",
+      "price": 11454750,
+      "item_name": "Royal Von Leon Pistol",
+      "data_points": 12
     }
   ],
   "1482203": [
-    {
-      "timestamp": "2025-08-23T00:35:42.804517",
-      "price": 555625,
-      "item_name": "Royal Von Leon Claw",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.401572",
       "price": 552352,
@@ -30767,15 +30761,15 @@
       "price": 579090,
       "item_name": "Royal Von Leon Claw",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.628697",
+      "price": 570000,
+      "item_name": "Royal Von Leon Claw",
+      "data_points": 12
     }
   ],
   "1352913": [
-    {
-      "timestamp": "2025-08-23T00:35:42.811762",
-      "price": 2800000,
-      "item_name": "Evolving Falcon Eye",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.408843",
       "price": 2800000,
@@ -31129,15 +31123,15 @@
       "price": 2500000,
       "item_name": "Evolving Falcon Eye",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.636266",
+      "price": 2500000,
+      "item_name": "Evolving Falcon Eye",
+      "data_points": 12
     }
   ],
   "1352903": [
-    {
-      "timestamp": "2025-08-23T00:35:42.819019",
-      "price": 308000,
-      "item_name": "Evolving Wrist Armor",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.416183",
       "price": 308000,
@@ -31491,15 +31485,15 @@
       "price": 320000,
       "item_name": "Evolving Wrist Armor",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.643768",
+      "price": 320000,
+      "item_name": "Evolving Wrist Armor",
+      "data_points": 12
     }
   ],
   "1352912": [
-    {
-      "timestamp": "2025-08-23T00:35:42.826250",
-      "price": 2800000,
-      "item_name": "Falcon Eye",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.423505",
       "price": 2800000,
@@ -31853,15 +31847,15 @@
       "price": 2488888,
       "item_name": "Falcon Eye",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.651208",
+      "price": 2488888,
+      "item_name": "Falcon Eye",
+      "data_points": 12
     }
   ],
   "1352902": [
-    {
-      "timestamp": "2025-08-23T00:35:42.833516",
-      "price": 320625,
-      "item_name": "Wrist Armor",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.430865",
       "price": 321176,
@@ -32215,15 +32209,15 @@
       "price": 325454,
       "item_name": "Wrist Armor",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.658785",
+      "price": 327499,
+      "item_name": "Wrist Armor",
+      "data_points": 12
     }
   ],
   "1492209": [
-    {
-      "timestamp": "2025-08-23T00:35:42.840831",
-      "price": 652187,
-      "item_name": "Zakum's Poisonic Gun",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.438147",
       "price": 652058,
@@ -32577,15 +32571,15 @@
       "price": 547272,
       "item_name": "Zakum's Poisonic Gun",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.666258",
+      "price": 572500,
+      "item_name": "Zakum's Poisonic Gun",
+      "data_points": 12
     }
   ],
   "1482199": [
-    {
-      "timestamp": "2025-08-23T00:35:42.848109",
-      "price": 353124,
-      "item_name": "Zakum's Poisonic Knuckle",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.445491",
       "price": 354411,
@@ -32939,15 +32933,15 @@
       "price": 360909,
       "item_name": "Zakum's Poisonic Knuckle",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.673779",
+      "price": 358333,
+      "item_name": "Zakum's Poisonic Knuckle",
+      "data_points": 12
     }
   ],
   "1482136": [
-    {
-      "timestamp": "2025-08-23T00:35:42.855385",
-      "price": 395000,
-      "item_name": "Necro Wolf",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.452859",
       "price": 395000,
@@ -33301,15 +33295,15 @@
       "price": 453737,
       "item_name": "Necro Wolf",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.681341",
+      "price": 451509,
+      "item_name": "Necro Wolf",
+      "data_points": 12
     }
   ],
   "1492136": [
-    {
-      "timestamp": "2025-08-23T00:35:42.862680",
-      "price": 643124,
-      "item_name": "Necro Eagle",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.460199",
       "price": 640587,
@@ -33663,15 +33657,15 @@
       "price": 550000,
       "item_name": "Necro Eagle",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.688866",
+      "price": 541666,
+      "item_name": "Necro Eagle",
+      "data_points": 12
     }
   ],
   "1042254": [
-    {
-      "timestamp": "2025-08-23T00:35:42.869949",
-      "price": 4928125,
-      "item_name": "Eagle Eye Warrior Armor",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.468742",
       "price": 4932352,
@@ -34025,15 +34019,15 @@
       "price": 4989090,
       "item_name": "Eagle Eye Warrior Armor",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.696459",
+      "price": 4980000,
+      "item_name": "Eagle Eye Warrior Armor",
+      "data_points": 12
     }
   ],
   "1003797": [
-    {
-      "timestamp": "2025-08-23T00:35:42.877210",
-      "price": 2100000,
-      "item_name": "Royal Warrior Helm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.476058",
       "price": 2100000,
@@ -34387,15 +34381,15 @@
       "price": 2118181,
       "item_name": "Royal Warrior Helm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.704033",
+      "price": 2125000,
+      "item_name": "Royal Warrior Helm",
+      "data_points": 12
     }
   ],
   "1072485": [
-    {
-      "timestamp": "2025-08-23T00:35:42.884448",
-      "price": 839582,
-      "item_name": "Lionheart Battle Boots",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.483263",
       "price": 840195,
@@ -34749,15 +34743,15 @@
       "price": 971181,
       "item_name": "Lionheart Battle Boots",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.711594",
+      "price": 963833,
+      "item_name": "Lionheart Battle Boots",
+      "data_points": 12
     }
   ],
   "1102275": [
-    {
-      "timestamp": "2025-08-23T00:35:42.891761",
-      "price": 893125,
-      "item_name": "Lionheart Battle Cape",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.490570",
       "price": 893235,
@@ -35111,15 +35105,15 @@
       "price": 1099999,
       "item_name": "Lionheart Battle Cape",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.719145",
+      "price": 1099999,
+      "item_name": "Lionheart Battle Cape",
+      "data_points": 12
     }
   ],
   "1052314": [
-    {
-      "timestamp": "2025-08-23T00:35:42.898962",
-      "price": 788888,
-      "item_name": "Lionheart Battle Mail",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.497805",
       "price": 788888,
@@ -35473,15 +35467,15 @@
       "price": 817272,
       "item_name": "Lionheart Battle Mail",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.726729",
+      "price": 810832,
+      "item_name": "Lionheart Battle Mail",
+      "data_points": 12
     }
   ],
   "1082613": [
-    {
-      "timestamp": "2025-08-23T00:35:42.906380",
-      "price": 610755,
-      "item_name": "Royal Von Leon Warrior Hands",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.505092",
       "price": 615985,
@@ -35835,15 +35829,15 @@
       "price": 729634,
       "item_name": "Royal Von Leon Warrior Hands",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.734322",
+      "price": 729581,
+      "item_name": "Royal Von Leon Warrior Hands",
+      "data_points": 12
     }
   ],
   "1003172": [
-    {
-      "timestamp": "2025-08-23T00:35:42.913620",
-      "price": 580000,
-      "item_name": "Lionheart Battle Helm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.512371",
       "price": 580000,
@@ -36197,15 +36191,15 @@
       "price": 649999,
       "item_name": "Lionheart Battle Helm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.741863",
+      "price": 649999,
+      "item_name": "Lionheart Battle Helm",
+      "data_points": 12
     }
   ],
   "1006514": [
-    {
-      "timestamp": "2025-08-23T00:35:42.920943",
-      "price": 844999,
-      "item_name": "Unchained Warrior Helm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.519645",
       "price": 842352,
@@ -36559,15 +36553,15 @@
       "price": 601818,
       "item_name": "Unchained Warrior Helm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.749718",
+      "price": 602500,
+      "item_name": "Unchained Warrior Helm",
+      "data_points": 12
     }
   ],
   "1082805": [
-    {
-      "timestamp": "2025-08-23T00:35:42.928178",
-      "price": 1060500,
-      "item_name": "Unchained Warrior Hands",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.526908",
       "price": 1056941,
@@ -36921,15 +36915,15 @@
       "price": 926766,
       "item_name": "Unchained Warrior Hands",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.757832",
+      "price": 915276,
+      "item_name": "Unchained Warrior Hands",
+      "data_points": 12
     }
   ],
   "1052804": [
-    {
-      "timestamp": "2025-08-23T00:35:42.935485",
-      "price": 474201,
-      "item_name": "Royal Von Leon Warrior Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.534403",
       "price": 478954,
@@ -37283,15 +37277,15 @@
       "price": 530302,
       "item_name": "Royal Von Leon Warrior Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.765662",
+      "price": 527777,
+      "item_name": "Royal Von Leon Warrior Suit",
+      "data_points": 12
     }
   ],
   "1073919": [
-    {
-      "timestamp": "2025-08-23T00:35:42.942773",
-      "price": 898375,
-      "item_name": "Unchained Warrior Boots",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.542110",
       "price": 899647,
@@ -37645,15 +37639,15 @@
       "price": 775251,
       "item_name": "Unchained Warrior Boots",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.773314",
+      "price": 773147,
+      "item_name": "Unchained Warrior Boots",
+      "data_points": 12
     }
   ],
   "1072972": [
-    {
-      "timestamp": "2025-08-23T00:35:42.950086",
-      "price": 506469,
-      "item_name": "Royal Von Leon Warrior Boots",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.549485",
       "price": 510794,
@@ -38007,15 +38001,15 @@
       "price": 466484,
       "item_name": "Royal Von Leon Warrior Boots",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.780991",
+      "price": 469194,
+      "item_name": "Royal Von Leon Warrior Boots",
+      "data_points": 12
     }
   ],
   "1004234": [
-    {
-      "timestamp": "2025-08-23T00:35:42.957351",
-      "price": 372308,
-      "item_name": "Royal Von Leon Warrior Helm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.556726",
       "price": 375113,
@@ -38369,15 +38363,15 @@
       "price": 389999,
       "item_name": "Royal Von Leon Warrior Helm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.788599",
+      "price": 385277,
+      "item_name": "Royal Von Leon Warrior Helm",
+      "data_points": 12
     }
   ],
   "1102713": [
-    {
-      "timestamp": "2025-08-23T00:35:42.964667",
-      "price": 585534,
-      "item_name": "Royal Von Leon Warrior Cape",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.564029",
       "price": 592267,
@@ -38731,15 +38725,15 @@
       "price": 641905,
       "item_name": "Royal Von Leon Warrior Cape",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.796210",
+      "price": 640079,
+      "item_name": "Royal Von Leon Warrior Cape",
+      "data_points": 12
     }
   ],
   "1003173": [
-    {
-      "timestamp": "2025-08-23T00:35:42.971959",
-      "price": 815235,
-      "item_name": "Dragon Tail Mage Sallet",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.571362",
       "price": 811398,
@@ -39093,15 +39087,15 @@
       "price": 658727,
       "item_name": "Dragon Tail Mage Sallet",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.807307",
+      "price": 643250,
+      "item_name": "Dragon Tail Mage Sallet",
+      "data_points": 12
     }
   ],
   "1152110": [
-    {
-      "timestamp": "2025-08-23T00:35:42.979278",
-      "price": 780312,
-      "item_name": "Dragon Tail Mage Shoulder",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.578741",
       "price": 779705,
@@ -39455,15 +39449,15 @@
       "price": 776464,
       "item_name": "Dragon Tail Mage Shoulder",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.814983",
+      "price": 774722,
+      "item_name": "Dragon Tail Mage Shoulder",
+      "data_points": 12
     }
   ],
   "1072486": [
-    {
-      "timestamp": "2025-08-23T00:35:42.986526",
-      "price": 895000,
-      "item_name": "Dragon Tail Mage Shoes",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.586019",
       "price": 895000,
@@ -39817,15 +39811,15 @@
       "price": 650000,
       "item_name": "Dragon Tail Mage Shoes",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.822544",
+      "price": 650000,
+      "item_name": "Dragon Tail Mage Shoes",
+      "data_points": 12
     }
   ],
   "1102276": [
-    {
-      "timestamp": "2025-08-23T00:35:42.993889",
-      "price": 759875,
-      "item_name": "Dragon Tail Mage Cape",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.593426",
       "price": 759882,
@@ -40179,15 +40173,15 @@
       "price": 888888,
       "item_name": "Dragon Tail Mage Cape",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.830133",
+      "price": 868147,
+      "item_name": "Dragon Tail Mage Cape",
+      "data_points": 12
     }
   ],
   "1082296": [
-    {
-      "timestamp": "2025-08-23T00:35:43.001163",
-      "price": 940000,
-      "item_name": "Dragon Tail Mage Gloves",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.600728",
       "price": 940000,
@@ -40541,15 +40535,15 @@
       "price": 836818,
       "item_name": "Dragon Tail Mage Gloves",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.837719",
+      "price": 833750,
+      "item_name": "Dragon Tail Mage Gloves",
+      "data_points": 12
     }
   ],
   "1052315": [
-    {
-      "timestamp": "2025-08-23T00:35:43.008473",
-      "price": 819000,
-      "item_name": "Dragon Tail Mage Robe",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.608081",
       "price": 819000,
@@ -40903,15 +40897,15 @@
       "price": 724454,
       "item_name": "Dragon Tail Mage Robe",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.845308",
+      "price": 722333,
+      "item_name": "Dragon Tail Mage Robe",
+      "data_points": 12
     }
   ],
   "1042255": [
-    {
-      "timestamp": "2025-08-23T00:35:43.015769",
-      "price": 4012499,
-      "item_name": "Eagle Eye Dunwitch Robe",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.615662",
       "price": 4017646,
@@ -41265,15 +41259,15 @@
       "price": 4545454,
       "item_name": "Eagle Eye Dunwitch Robe",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.852959",
+      "price": 4549999,
+      "item_name": "Eagle Eye Dunwitch Robe",
+      "data_points": 12
     }
   ],
   "1062166": [
-    {
-      "timestamp": "2025-08-23T00:35:43.023068",
-      "price": 4393811,
-      "item_name": "Trixter Dunwitch Pants",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.623258",
       "price": 4394175,
@@ -41627,15 +41621,15 @@
       "price": 4599999,
       "item_name": "Trixter Dunwitch Pants",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.860749",
+      "price": 4583333,
+      "item_name": "Trixter Dunwitch Pants",
+      "data_points": 12
     }
   ],
   "1003798": [
-    {
-      "timestamp": "2025-08-23T00:35:43.030317",
-      "price": 2350000,
-      "item_name": "Royal Dunwitch Hat",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.630518",
       "price": 2350000,
@@ -41989,15 +41983,15 @@
       "price": 1888887,
       "item_name": "Royal Dunwitch Hat",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.868320",
+      "price": 1888887,
+      "item_name": "Royal Dunwitch Hat",
+      "data_points": 12
     }
   ],
   "1006515": [
-    {
-      "timestamp": "2025-08-23T00:35:43.037753",
-      "price": 1158262,
-      "item_name": "Unchained Magician Helm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.637839",
       "price": 1148887,
@@ -42351,15 +42345,15 @@
       "price": 999999,
       "item_name": "Unchained Magician Helm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.875861",
+      "price": 999999,
+      "item_name": "Unchained Magician Helm",
+      "data_points": 12
     }
   ],
   "1073920": [
-    {
-      "timestamp": "2025-08-23T00:35:43.045056",
-      "price": 1317197,
-      "item_name": "Unchained Magician Boots",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.645205",
       "price": 1320891,
@@ -42713,15 +42707,15 @@
       "price": 1358888,
       "item_name": "Unchained Magician Boots",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.883399",
+      "price": 1358147,
+      "item_name": "Unchained Magician Boots",
+      "data_points": 12
     }
   ],
   "1082806": [
-    {
-      "timestamp": "2025-08-23T00:35:43.052410",
-      "price": 1071749,
-      "item_name": "Unchained Mage Hands",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.652591",
       "price": 1079293,
@@ -43075,15 +43069,15 @@
       "price": 1351010,
       "item_name": "Unchained Mage Hands",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.891008",
+      "price": 1352314,
+      "item_name": "Unchained Mage Hands",
+      "data_points": 12
     }
   ],
   "1054172": [
-    {
-      "timestamp": "2025-08-23T00:35:43.059756",
-      "price": 1044999,
-      "item_name": "Unchained Mage Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.659880",
       "price": 1042352,
@@ -43437,15 +43431,15 @@
       "price": 954669,
       "item_name": "Unchained Mage Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.898571",
+      "price": 958447,
+      "item_name": "Unchained Mage Suit",
+      "data_points": 12
     }
   ],
   "1052805": [
-    {
-      "timestamp": "2025-08-23T00:35:43.067166",
-      "price": 534374,
-      "item_name": "Royal Von Leon Mage Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.667247",
       "price": 532352,
@@ -43799,15 +43793,15 @@
       "price": 527000,
       "item_name": "Royal Von Leon Mage Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.906186",
+      "price": 524750,
+      "item_name": "Royal Von Leon Mage Suit",
+      "data_points": 12
     }
   ],
   "1004235": [
-    {
-      "timestamp": "2025-08-23T00:35:43.074486",
-      "price": 339437,
-      "item_name": "Royal Von Leon Magician Helm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.674554",
       "price": 339764,
@@ -44161,15 +44155,15 @@
       "price": 378636,
       "item_name": "Royal Von Leon Magician Helm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.913821",
+      "price": 378749,
+      "item_name": "Royal Von Leon Magician Helm",
+      "data_points": 12
     }
   ],
   "1072973": [
-    {
-      "timestamp": "2025-08-23T00:35:43.081893",
-      "price": 345463,
-      "item_name": "Royal Von Leon Mage Boots",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.681950",
       "price": 345730,
@@ -44523,15 +44517,15 @@
       "price": 382726,
       "item_name": "Royal Von Leon Mage Boots",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.921442",
+      "price": 379999,
+      "item_name": "Royal Von Leon Mage Boots",
+      "data_points": 12
     }
   ],
   "1102714": [
-    {
-      "timestamp": "2025-08-23T00:35:43.089230",
-      "price": 526319,
-      "item_name": "Royal Von Leon Mage Cape",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.689237",
       "price": 524770,
@@ -44885,15 +44879,15 @@
       "price": 507727,
       "item_name": "Royal Von Leon Mage Cape",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.929041",
+      "price": 503333,
+      "item_name": "Royal Von Leon Mage Cape",
+      "data_points": 12
     }
   ],
   "1082614": [
-    {
-      "timestamp": "2025-08-23T00:35:43.096666",
-      "price": 475493,
-      "item_name": "Royal Von Leon Mage Hands",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.696949",
       "price": 474581,
@@ -45247,15 +45241,15 @@
       "price": 530615,
       "item_name": "Royal Von Leon Mage Hands",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.936646",
+      "price": 534314,
+      "item_name": "Royal Von Leon Mage Hands",
+      "data_points": 12
     }
   ],
   "1082595": [
-    {
-      "timestamp": "2025-08-23T00:35:43.104233",
-      "price": 356388,
-      "item_name": "Necromancer Sentinel Gloves",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.704551",
       "price": 356600,
@@ -45609,15 +45603,15 @@
       "price": 390818,
       "item_name": "Necromancer Sentinel Gloves",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.944145",
+      "price": 383166,
+      "item_name": "Necromancer Sentinel Gloves",
+      "data_points": 12
     }
   ],
   "1072954": [
-    {
-      "timestamp": "2025-08-23T00:35:43.111754",
-      "price": 480000,
-      "item_name": "Necromancer Sentinel Shoes",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.712362",
       "price": 480000,
@@ -45971,15 +45965,15 @@
       "price": 374000,
       "item_name": "Necromancer Sentinel Shoes",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.951746",
+      "price": 367833,
+      "item_name": "Necromancer Sentinel Shoes",
+      "data_points": 12
     }
   ],
   "1052786": [
-    {
-      "timestamp": "2025-08-23T00:35:43.119067",
-      "price": 487500,
-      "item_name": "Necromancer Sentinel Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.719663",
       "price": 483529,
@@ -46333,15 +46327,15 @@
       "price": 390504,
       "item_name": "Necromancer Sentinel Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.959301",
+      "price": 387128,
+      "item_name": "Necromancer Sentinel Suit",
+      "data_points": 12
     }
   ],
   "1004216": [
-    {
-      "timestamp": "2025-08-23T00:35:43.126452",
-      "price": 389250,
-      "item_name": "Necromancer Sentinel Hat",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.727065",
       "price": 389882,
@@ -46695,15 +46689,15 @@
       "price": 362363,
       "item_name": "Necromancer Sentinel Hat",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.966911",
+      "price": 356582,
+      "item_name": "Necromancer Sentinel Hat",
+      "data_points": 12
     }
   ],
   "1004215": [
-    {
-      "timestamp": "2025-08-23T00:35:43.133774",
-      "price": 348055,
-      "item_name": "Necromancer Magician Hat",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.734406",
       "price": 348758,
@@ -47057,15 +47051,15 @@
       "price": 326909,
       "item_name": "Necromancer Magician Hat",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.974460",
+      "price": 324499,
+      "item_name": "Necromancer Magician Hat",
+      "data_points": 12
     }
   ],
   "1082594": [
-    {
-      "timestamp": "2025-08-23T00:35:43.141149",
-      "price": 497999,
-      "item_name": "Necromancer Magician Gloves",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.741825",
       "price": 497823,
@@ -47419,15 +47413,15 @@
       "price": 477999,
       "item_name": "Necromancer Magician Gloves",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.982070",
+      "price": 469832,
+      "item_name": "Necromancer Magician Gloves",
+      "data_points": 12
     }
   ],
   "1052785": [
-    {
-      "timestamp": "2025-08-23T00:35:43.148496",
-      "price": 413124,
-      "item_name": "Necromancer Magician Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.749143",
       "price": 413529,
@@ -47781,15 +47775,15 @@
       "price": 469545,
       "item_name": "Necromancer Magician Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.989618",
+      "price": 464500,
+      "item_name": "Necromancer Magician Suit",
+      "data_points": 12
     }
   ],
   "1072953": [
-    {
-      "timestamp": "2025-08-23T00:35:43.155850",
-      "price": 395625,
-      "item_name": "Necromancer Magician Shoes",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.756544",
       "price": 395823,
@@ -48143,15 +48137,15 @@
       "price": 365454,
       "item_name": "Necromancer Magician Shoes",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.997253",
+      "price": 359999,
+      "item_name": "Necromancer Magician Shoes",
+      "data_points": 12
     }
   ],
   "1004214": [
-    {
-      "timestamp": "2025-08-23T00:35:43.163191",
-      "price": 337410,
-      "item_name": "Necromancer Warrior Hat",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.763833",
       "price": 338729,
@@ -48505,15 +48499,15 @@
       "price": 336454,
       "item_name": "Necromancer Warrior Hat",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.004764",
+      "price": 333416,
+      "item_name": "Necromancer Warrior Hat",
+      "data_points": 12
     }
   ],
   "1072952": [
-    {
-      "timestamp": "2025-08-23T00:35:43.170627",
-      "price": 367500,
-      "item_name": "Necromancer Warrior Shoes",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.771274",
       "price": 368823,
@@ -48867,15 +48861,15 @@
       "price": 374363,
       "item_name": "Necromancer Warrior Shoes",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.012388",
+      "price": 369000,
+      "item_name": "Necromancer Warrior Shoes",
+      "data_points": 12
     }
   ],
   "1082593": [
-    {
-      "timestamp": "2025-08-23T00:35:43.178012",
-      "price": 477846,
-      "item_name": "Necromancer Warrior Gloves",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.778623",
       "price": 474770,
@@ -49229,15 +49223,15 @@
       "price": 507181,
       "item_name": "Necromancer Warrior Gloves",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.019969",
+      "price": 505750,
+      "item_name": "Necromancer Warrior Gloves",
+      "data_points": 12
     }
   ],
   "1052784": [
-    {
-      "timestamp": "2025-08-23T00:35:43.185473",
-      "price": 604999,
-      "item_name": "Necromancer Warrior Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.785958",
       "price": 604705,
@@ -49591,15 +49585,15 @@
       "price": 533726,
       "item_name": "Necromancer Warrior Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.027669",
+      "price": 525915,
+      "item_name": "Necromancer Warrior Suit",
+      "data_points": 12
     }
   ],
   "1082596": [
-    {
-      "timestamp": "2025-08-23T00:35:43.192850",
-      "price": 343777,
-      "item_name": "Necromancer Chaser Gloves",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.793264",
       "price": 343555,
@@ -49953,15 +49947,15 @@
       "price": 316363,
       "item_name": "Necromancer Chaser Gloves",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.035360",
+      "price": 314999,
+      "item_name": "Necromancer Chaser Gloves",
+      "data_points": 12
     }
   ],
   "1072955": [
-    {
-      "timestamp": "2025-08-23T00:35:43.200232",
-      "price": 339166,
-      "item_name": "Necromancer Chaser Shoes",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.800583",
       "price": 338823,
@@ -50315,15 +50309,15 @@
       "price": 313727,
       "item_name": "Necromancer Chaser Shoes",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.043007",
+      "price": 312500,
+      "item_name": "Necromancer Chaser Shoes",
+      "data_points": 12
     }
   ],
   "1004217": [
-    {
-      "timestamp": "2025-08-23T00:35:43.207567",
-      "price": 378597,
-      "item_name": "Necromancer Chaser Hat",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.807858",
       "price": 376588,
@@ -50677,15 +50671,15 @@
       "price": 304363,
       "item_name": "Necromancer Chaser Hat",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.050629",
+      "price": 303999,
+      "item_name": "Necromancer Chaser Hat",
+      "data_points": 12
     }
   ],
   "1052787": [
-    {
-      "timestamp": "2025-08-23T00:35:43.214988",
-      "price": 340000,
-      "item_name": "Necromancer Chaser Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.815342",
       "price": 340000,
@@ -51039,15 +51033,15 @@
       "price": 364636,
       "item_name": "Necromancer Chaser Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.058380",
+      "price": 360083,
+      "item_name": "Necromancer Chaser Suit",
+      "data_points": 12
     }
   ],
   "1072975": [
-    {
-      "timestamp": "2025-08-23T00:35:43.222348",
-      "price": 332604,
-      "item_name": "Royal Von Leon Chaser Boots",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.822727",
       "price": 332450,
@@ -51401,15 +51395,15 @@
       "price": 345454,
       "item_name": "Royal Von Leon Chaser Boots",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.065986",
+      "price": 346573,
+      "item_name": "Royal Von Leon Chaser Boots",
+      "data_points": 12
     }
   ],
   "1102716": [
-    {
-      "timestamp": "2025-08-23T00:35:43.229810",
-      "price": 322708,
-      "item_name": "Royal Von Leon Chaser Cape",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.830127",
       "price": 323137,
@@ -51763,15 +51757,15 @@
       "price": 323727,
       "item_name": "Royal Von Leon Chaser Cape",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.073745",
+      "price": 321750,
+      "item_name": "Royal Von Leon Chaser Cape",
+      "data_points": 12
     }
   ],
   "1082616": [
-    {
-      "timestamp": "2025-08-23T00:35:43.237217",
-      "price": 326037,
-      "item_name": "Royal Von Leon Chaser Hands",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.837460",
       "price": 326858,
@@ -52125,15 +52119,15 @@
       "price": 360000,
       "item_name": "Royal Von Leon Chaser Hands",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.081501",
+      "price": 360000,
+      "item_name": "Royal Von Leon Chaser Hands",
+      "data_points": 12
     }
   ],
   "1004237": [
-    {
-      "timestamp": "2025-08-23T00:35:43.244660",
-      "price": 314625,
-      "item_name": "Royal Von Leon Chaser Helm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.844813",
       "price": 315235,
@@ -52487,15 +52481,15 @@
       "price": 309999,
       "item_name": "Royal Von Leon Chaser Helm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.089303",
+      "price": 309999,
+      "item_name": "Royal Von Leon Chaser Helm",
+      "data_points": 12
     }
   ],
   "1052807": [
-    {
-      "timestamp": "2025-08-23T00:35:43.252044",
-      "price": 320437,
-      "item_name": "Royal Von Leon Chaser Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.852129",
       "price": 322176,
@@ -52849,15 +52843,15 @@
       "price": 318888,
       "item_name": "Royal Von Leon Chaser Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.096966",
+      "price": 318980,
+      "item_name": "Royal Von Leon Chaser Suit",
+      "data_points": 12
     }
   ],
   "1082808": [
-    {
-      "timestamp": "2025-08-23T00:35:43.259440",
-      "price": 655249,
-      "item_name": "Unchained Chaser Hands",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.859502",
       "price": 649058,
@@ -53211,15 +53205,15 @@
       "price": 539090,
       "item_name": "Unchained Chaser Hands",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.104698",
+      "price": 539166,
+      "item_name": "Unchained Chaser Hands",
+      "data_points": 12
     }
   ],
   "1054174": [
-    {
-      "timestamp": "2025-08-23T00:35:43.266790",
-      "price": 512972,
-      "item_name": "Unchained Chaser Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.866800",
       "price": 514496,
@@ -53573,15 +53567,15 @@
       "price": 473272,
       "item_name": "Unchained Chaser Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.112382",
+      "price": 474500,
+      "item_name": "Unchained Chaser Suit",
+      "data_points": 12
     }
   ],
   "1073922": [
-    {
-      "timestamp": "2025-08-23T00:35:43.274169",
-      "price": 511527,
-      "item_name": "Unchained Chaser Boots",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.874186",
       "price": 510130,
@@ -53935,15 +53929,15 @@
       "price": 449090,
       "item_name": "Unchained Chaser Boots",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.120061",
+      "price": 450833,
+      "item_name": "Unchained Chaser Boots",
+      "data_points": 12
     }
   ],
   "1006517": [
-    {
-      "timestamp": "2025-08-23T00:35:43.281495",
-      "price": 455999,
-      "item_name": "Unchained Chaser Helm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.881495",
       "price": 455999,
@@ -54297,15 +54291,15 @@
       "price": 386025,
       "item_name": "Unchained Chaser Helm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.127713",
+      "price": 390523,
+      "item_name": "Unchained Chaser Helm",
+      "data_points": 12
     }
   ],
   "1052317": [
-    {
-      "timestamp": "2025-08-23T00:35:43.288916",
-      "price": 422222,
-      "item_name": "Raven Horn Chaser Armor",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.888929",
       "price": 422222,
@@ -54659,15 +54653,15 @@
       "price": 490000,
       "item_name": "Raven Horn Chaser Armor",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.135447",
+      "price": 490000,
+      "item_name": "Raven Horn Chaser Armor",
+      "data_points": 12
     }
   ],
   "1003175": [
-    {
-      "timestamp": "2025-08-23T00:35:43.296222",
-      "price": 375068,
-      "item_name": "Raven Horn Chaser Hat",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.896268",
       "price": 375816,
@@ -55021,15 +55015,15 @@
       "price": 388888,
       "item_name": "Raven Horn Chaser Hat",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.143063",
+      "price": 388888,
+      "item_name": "Raven Horn Chaser Hat",
+      "data_points": 12
     }
   ],
   "1082298": [
-    {
-      "timestamp": "2025-08-23T00:35:43.303611",
-      "price": 502083,
-      "item_name": "Raven Horn Chaser Gloves",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.904276",
       "price": 501960,
@@ -55383,15 +55377,15 @@
       "price": 500000,
       "item_name": "Raven Horn Chaser Gloves",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.150719",
+      "price": 500000,
+      "item_name": "Raven Horn Chaser Gloves",
+      "data_points": 12
     }
   ],
   "1102278": [
-    {
-      "timestamp": "2025-08-23T00:35:43.311038",
-      "price": 552843,
-      "item_name": "Raven Horn Chaser Cape",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.911598",
       "price": 552882,
@@ -55745,15 +55739,15 @@
       "price": 544136,
       "item_name": "Raven Horn Chaser Cape",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.158370",
+      "price": 544625,
+      "item_name": "Raven Horn Chaser Cape",
+      "data_points": 12
     }
   ],
   "1072488": [
-    {
-      "timestamp": "2025-08-23T00:35:43.318388",
-      "price": 499999,
-      "item_name": "Raven Horn Chaser Boots",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.918921",
       "price": 499999,
@@ -56107,15 +56101,15 @@
       "price": 476726,
       "item_name": "Raven Horn Chaser Boots",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.166010",
+      "price": 473249,
+      "item_name": "Raven Horn Chaser Boots",
+      "data_points": 12
     }
   ],
   "1003800": [
-    {
-      "timestamp": "2025-08-23T00:35:43.325757",
-      "price": 2000000,
-      "item_name": "Royal Assassin Hood",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.926816",
       "price": 2000000,
@@ -56469,15 +56463,15 @@
       "price": 1880807,
       "item_name": "Royal Assassin Hood",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.173701",
+      "price": 1874073,
+      "item_name": "Royal Assassin Hood",
+      "data_points": 12
     }
   ],
   "1042257": [
-    {
-      "timestamp": "2025-08-23T00:35:43.333118",
-      "price": 2543750,
-      "item_name": "Eagle Eye Assassin Shirt",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.934124",
       "price": 2541176,
@@ -56831,15 +56825,15 @@
       "price": 2355000,
       "item_name": "Eagle Eye Assassin Shirt",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.181382",
+      "price": 2355000,
+      "item_name": "Eagle Eye Assassin Shirt",
+      "data_points": 12
     }
   ],
   "1004218": [
-    {
-      "timestamp": "2025-08-23T00:35:43.340428",
-      "price": 331666,
-      "item_name": "Necromancer Skipper Hat",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.941442",
       "price": 332156,
@@ -57193,15 +57187,15 @@
       "price": 307818,
       "item_name": "Necromancer Skipper Hat",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.188983",
+      "price": 307000,
+      "item_name": "Necromancer Skipper Hat",
+      "data_points": 12
     }
   ],
   "1072956": [
-    {
-      "timestamp": "2025-08-23T00:35:43.347837",
-      "price": 381912,
-      "item_name": "Necromancer Skipper Shoes",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.948847",
       "price": 382317,
@@ -57555,15 +57549,15 @@
       "price": 331717,
       "item_name": "Necromancer Skipper Shoes",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.196668",
+      "price": 329073,
+      "item_name": "Necromancer Skipper Shoes",
+      "data_points": 12
     }
   ],
   "1082597": [
-    {
-      "timestamp": "2025-08-23T00:35:43.355288",
-      "price": 375718,
-      "item_name": "Necromancer Skipper Gloves",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.956176",
       "price": 376264,
@@ -57917,15 +57911,15 @@
       "price": 378096,
       "item_name": "Necromancer Skipper Gloves",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.204345",
+      "price": 372977,
+      "item_name": "Necromancer Skipper Gloves",
+      "data_points": 12
     }
   ],
   "1052788": [
-    {
-      "timestamp": "2025-08-23T00:35:43.362737",
-      "price": 410048,
-      "item_name": "Necromancer Skipper Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.963570",
       "price": 410339,
@@ -58279,15 +58273,15 @@
       "price": 380090,
       "item_name": "Necromancer Skipper Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.212033",
+      "price": 379250,
+      "item_name": "Necromancer Skipper Suit",
+      "data_points": 12
     }
   ],
   "1082617": [
-    {
-      "timestamp": "2025-08-23T00:35:43.370129",
-      "price": 410375,
-      "item_name": "Royal Von Leon Skipper Hands",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.970898",
       "price": 411823,
@@ -58641,15 +58635,15 @@
       "price": 490908,
       "item_name": "Royal Von Leon Skipper Hands",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.219751",
+      "price": 491666,
+      "item_name": "Royal Von Leon Skipper Hands",
+      "data_points": 12
     }
   ],
   "1004238": [
-    {
-      "timestamp": "2025-08-23T00:35:43.377581",
-      "price": 328802,
-      "item_name": "Royal Von Leon Skipper Helm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.978280",
       "price": 328872,
@@ -59003,15 +58997,15 @@
       "price": 391626,
       "item_name": "Royal Von Leon Skipper Helm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.227527",
+      "price": 392324,
+      "item_name": "Royal Von Leon Skipper Helm",
+      "data_points": 12
     }
   ],
   "1102717": [
-    {
-      "timestamp": "2025-08-23T00:35:43.384958",
-      "price": 420228,
-      "item_name": "Royal Von Leon Skipper Cape",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.985543",
       "price": 420803,
@@ -59365,15 +59359,15 @@
       "price": 538989,
       "item_name": "Royal Von Leon Skipper Cape",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.235133",
+      "price": 543906,
+      "item_name": "Royal Von Leon Skipper Cape",
+      "data_points": 12
     }
   ],
   "1052808": [
-    {
-      "timestamp": "2025-08-23T00:35:43.392360",
-      "price": 371426,
-      "item_name": "Royal Von Leon Skipper Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:30.992860",
       "price": 371794,
@@ -59727,15 +59721,15 @@
       "price": 419545,
       "item_name": "Royal Von Leon Skipper Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.242799",
+      "price": 416250,
+      "item_name": "Royal Von Leon Skipper Suit",
+      "data_points": 12
     }
   ],
   "1072976": [
-    {
-      "timestamp": "2025-08-23T00:35:43.399719",
-      "price": 397086,
-      "item_name": "Royal Von Leon Skipper Boots",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.000096",
       "price": 397669,
@@ -60089,15 +60083,15 @@
       "price": 398180,
       "item_name": "Royal Von Leon Skipper Boots",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.250715",
+      "price": 396665,
+      "item_name": "Royal Von Leon Skipper Boots",
+      "data_points": 12
     }
   ],
   "1082809": [
-    {
-      "timestamp": "2025-08-23T00:35:43.407088",
-      "price": 1304008,
-      "item_name": "Unchained Skipper Hands",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.007395",
       "price": 1303772,
@@ -60451,15 +60445,15 @@
       "price": 1249999,
       "item_name": "Unchained Skipper Hands",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.258430",
+      "price": 1249999,
+      "item_name": "Unchained Skipper Hands",
+      "data_points": 12
     }
   ],
   "1006518": [
-    {
-      "timestamp": "2025-08-23T00:35:43.414471",
-      "price": 879576,
-      "item_name": "Unchained Skipper Helm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.014629",
       "price": 880123,
@@ -60813,15 +60807,15 @@
       "price": 879090,
       "item_name": "Unchained Skipper Helm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.266059",
+      "price": 872499,
+      "item_name": "Unchained Skipper Helm",
+      "data_points": 12
     }
   ],
   "1054175": [
-    {
-      "timestamp": "2025-08-23T00:35:43.422736",
-      "price": 942598,
-      "item_name": "Unchained Skipper Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.021941",
       "price": 942622,
@@ -61175,15 +61169,15 @@
       "price": 949999,
       "item_name": "Unchained Skipper Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.273858",
+      "price": 949999,
+      "item_name": "Unchained Skipper Suit",
+      "data_points": 12
     }
   ],
   "1073923": [
-    {
-      "timestamp": "2025-08-23T00:35:43.430177",
-      "price": 782325,
-      "item_name": "Unchained Skipper Boots",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.029211",
       "price": 782600,
@@ -61537,15 +61531,15 @@
       "price": 988888,
       "item_name": "Unchained Skipper Boots",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.281553",
+      "price": 988888,
+      "item_name": "Unchained Skipper Boots",
+      "data_points": 12
     }
   ],
   "1052318": [
-    {
-      "timestamp": "2025-08-23T00:35:43.437658",
-      "price": 538000,
-      "item_name": "Shark Tooth Skipper Coat",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.036514",
       "price": 538000,
@@ -61899,15 +61893,15 @@
       "price": 551999,
       "item_name": "Shark Tooth Skipper Coat",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.289256",
+      "price": 542332,
+      "item_name": "Shark Tooth Skipper Coat",
+      "data_points": 12
     }
   ],
   "1072489": [
-    {
-      "timestamp": "2025-08-23T00:35:43.444992",
-      "price": 631841,
-      "item_name": "Shark Tooth Skipper Boots",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.043735",
       "price": 628674,
@@ -62261,15 +62255,15 @@
       "price": 573636,
       "item_name": "Shark Tooth Skipper Boots",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.296862",
+      "price": 566000,
+      "item_name": "Shark Tooth Skipper Boots",
+      "data_points": 12
     }
   ],
   "1003801": [
-    {
-      "timestamp": "2025-08-23T00:35:43.452420",
-      "price": 2110000,
-      "item_name": "Royal Wanderer Hat",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.051073",
       "price": 2110000,
@@ -62623,15 +62617,15 @@
       "price": 1999999,
       "item_name": "Royal Wanderer Hat",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.304584",
+      "price": 1999999,
+      "item_name": "Royal Wanderer Hat",
+      "data_points": 12
     }
   ],
   "1042258": [
-    {
-      "timestamp": "2025-08-23T00:35:43.459737",
-      "price": 3588888,
-      "item_name": "Eagle Eye Wanderer Coat",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.058358",
       "price": 3588888,
@@ -62985,15 +62979,15 @@
       "price": 4162524,
       "item_name": "Eagle Eye Wanderer Coat",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.315375",
+      "price": 4140554,
+      "item_name": "Eagle Eye Wanderer Coat",
+      "data_points": 12
     }
   ],
   "1003176": [
-    {
-      "timestamp": "2025-08-23T00:35:43.467087",
-      "price": 449582,
-      "item_name": "Shark Tooth Skipper Hat",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.065771",
       "price": 449312,
@@ -63347,15 +63341,15 @@
       "price": 386545,
       "item_name": "Shark Tooth Skipper Hat",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.323099",
+      "price": 386000,
+      "item_name": "Shark Tooth Skipper Hat",
+      "data_points": 12
     }
   ],
   "1062169": [
-    {
-      "timestamp": "2025-08-23T00:35:43.474400",
-      "price": 3838888,
-      "item_name": "Trixter Wanderer Pants",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.073180",
       "price": 3836600,
@@ -63709,15 +63703,15 @@
       "price": 3922726,
       "item_name": "Trixter Wanderer Pants",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.331605",
+      "price": 3895832,
+      "item_name": "Trixter Wanderer Pants",
+      "data_points": 12
     }
   ],
   "1004637": [
-    {
-      "timestamp": "2025-08-23T00:35:43.481794",
-      "price": 296186,
-      "item_name": "Enraged Zakum Helmet",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.080586",
       "price": 295234,
@@ -64071,15 +64065,15 @@
       "price": 288807,
       "item_name": "Enraged Zakum Helmet",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.340730",
+      "price": 288740,
+      "item_name": "Enraged Zakum Helmet",
+      "data_points": 12
     }
   ],
   "1102871": [
-    {
-      "timestamp": "2025-08-23T00:35:43.489130",
-      "price": 319472,
-      "item_name": "Enraged Zakum Cape",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.087957",
       "price": 319856,
@@ -64433,15 +64427,15 @@
       "price": 306727,
       "item_name": "Enraged Zakum Cape",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.348364",
+      "price": 305666,
+      "item_name": "Enraged Zakum Cape",
+      "data_points": 12
     }
   ],
   "1132296": [
-    {
-      "timestamp": "2025-08-23T00:35:43.496501",
-      "price": 767166,
-      "item_name": "Enraged Zakum Belt",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.095394",
       "price": 764862,
@@ -64795,15 +64789,15 @@
       "price": 841636,
       "item_name": "Enraged Zakum Belt",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.356030",
+      "price": 818583,
+      "item_name": "Enraged Zakum Belt",
+      "data_points": 12
     }
   ],
   "1002357": [
-    {
-      "timestamp": "2025-08-23T00:35:43.503847",
-      "price": 497809,
-      "item_name": "Zakum Helmet",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.102699",
       "price": 500879,
@@ -65157,15 +65151,15 @@
       "price": 506959,
       "item_name": "Zakum Helmet",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.363730",
+      "price": 487212,
+      "item_name": "Zakum Helmet",
+      "data_points": 12
     }
   ],
   "1003112": [
-    {
-      "timestamp": "2025-08-23T00:35:43.511251",
-      "price": 422777,
-      "item_name": "Chaos Zakum Helmet",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.110130",
       "price": 418235,
@@ -65519,15 +65513,15 @@
       "price": 322454,
       "item_name": "Chaos Zakum Helmet",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.372149",
+      "price": 318916,
+      "item_name": "Chaos Zakum Helmet",
+      "data_points": 12
     }
   ],
   "1003621": [
-    {
-      "timestamp": "2025-08-23T00:35:43.518669",
-      "price": 458125,
-      "item_name": "Chaos Pink Bean Hat",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.117540",
       "price": 457647,
@@ -65881,15 +65875,15 @@
       "price": 386303,
       "item_name": "Chaos Pink Bean Hat",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.379935",
+      "price": 380361,
+      "item_name": "Chaos Pink Bean Hat",
+      "data_points": 12
     }
   ],
   "1052526": [
-    {
-      "timestamp": "2025-08-23T00:35:43.526040",
-      "price": 599921,
-      "item_name": "Chaos Pink Bean Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.124945",
       "price": 599860,
@@ -66243,15 +66237,15 @@
       "price": 558545,
       "item_name": "Chaos Pink Bean Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.387588",
+      "price": 542833,
+      "item_name": "Chaos Pink Bean Suit",
+      "data_points": 12
     }
   ],
   "1012825": [
-    {
-      "timestamp": "2025-08-23T00:35:43.533512",
-      "price": 1993733,
-      "item_name": "Neophyte Mark",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.132382",
       "price": 1994102,
@@ -66605,15 +66599,15 @@
       "price": 1931656,
       "item_name": "Neophyte Mark",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.395250",
+      "price": 1933101,
+      "item_name": "Neophyte Mark",
+      "data_points": 12
     }
   ],
   "1012478": [
-    {
-      "timestamp": "2025-08-23T00:35:43.541196",
-      "price": 2834333,
-      "item_name": "Condensed Power Crystal",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.139762",
       "price": 2832313,
@@ -66967,15 +66961,15 @@
       "price": 2699908,
       "item_name": "Condensed Power Crystal",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.402916",
+      "price": 2649082,
+      "item_name": "Condensed Power Crystal",
+      "data_points": 12
     }
   ],
   "1022334": [
-    {
-      "timestamp": "2025-08-23T00:35:43.548609",
-      "price": 1493333,
-      "item_name": "Neophyte Eye Accessory",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.147144",
       "price": 1494901,
@@ -67329,15 +67323,15 @@
       "price": 1474746,
       "item_name": "Neophyte Eye Accessory",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.410607",
+      "price": 1461768,
+      "item_name": "Neophyte Eye Accessory",
+      "data_points": 12
     }
   ],
   "1022231": [
-    {
-      "timestamp": "2025-08-23T00:35:43.556009",
-      "price": 2983123,
-      "item_name": "Aquatic Letter Eye Accessory",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.154643",
       "price": 2987057,
@@ -67691,15 +67685,15 @@
       "price": 2936363,
       "item_name": "Aquatic Letter Eye Accessory",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.418379",
+      "price": 2900000,
+      "item_name": "Aquatic Letter Eye Accessory",
+      "data_points": 12
     }
   ],
   "1032227": [
-    {
-      "timestamp": "2025-08-23T00:35:43.563479",
-      "price": 390415,
-      "item_name": "Ifia's Earrings",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.162019",
       "price": 390979,
@@ -68053,15 +68047,15 @@
       "price": 435958,
       "item_name": "Ifia's Earrings",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.425969",
+      "price": 432221,
+      "item_name": "Ifia's Earrings",
+      "data_points": 12
     }
   ],
   "1032241": [
-    {
-      "timestamp": "2025-08-23T00:35:43.570893",
-      "price": 520687,
-      "item_name": "Dea Sidus Earring",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.169481",
       "price": 522411,
@@ -68415,15 +68409,15 @@
       "price": 532075,
       "item_name": "Dea Sidus Earring",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.433709",
+      "price": 535235,
+      "item_name": "Dea Sidus Earring",
+      "data_points": 12
     }
   ],
   "1032339": [
-    {
-      "timestamp": "2025-08-23T00:35:43.578345",
-      "price": 1483632,
-      "item_name": "Neophyte Earrings",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.176971",
       "price": 1482830,
@@ -68777,15 +68771,15 @@
       "price": 1388181,
       "item_name": "Neophyte Earrings",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.441371",
+      "price": 1389165,
+      "item_name": "Neophyte Earrings",
+      "data_points": 12
     }
   ],
   "1032136": [
-    {
-      "timestamp": "2025-08-23T00:35:43.585733",
-      "price": 661527,
-      "item_name": "Will o' the Wisps",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.184403",
       "price": 660849,
@@ -69139,15 +69133,15 @@
       "price": 718636,
       "item_name": "Will o' the Wisps",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.449027",
+      "price": 704500,
+      "item_name": "Will o' the Wisps",
+      "data_points": 12
     }
   ],
   "1113089": [
-    {
-      "timestamp": "2025-08-23T00:35:43.593240",
-      "price": 530187,
-      "item_name": "Ifia's Ring",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.191852",
       "price": 531058,
@@ -69501,15 +69495,15 @@
       "price": 562727,
       "item_name": "Ifia's Ring",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.456737",
+      "price": 563333,
+      "item_name": "Ifia's Ring",
+      "data_points": 12
     }
   ],
   "1113149": [
-    {
-      "timestamp": "2025-08-23T00:35:43.600676",
-      "price": 1998680,
-      "item_name": "Silver Blossom Ring",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.199278",
       "price": 1995816,
@@ -69863,15 +69857,15 @@
       "price": 1966362,
       "item_name": "Silver Blossom Ring",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.464411",
+      "price": 1955832,
+      "item_name": "Silver Blossom Ring",
+      "data_points": 12
     }
   ],
   "1113282": [
-    {
-      "timestamp": "2025-08-23T00:35:43.608064",
-      "price": 3539944,
-      "item_name": "Noble Ifia's Ring",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.207101",
       "price": 3545829,
@@ -70225,15 +70219,15 @@
       "price": 3625252,
       "item_name": "Noble Ifia's Ring",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.472074",
+      "price": 3608333,
+      "item_name": "Noble Ifia's Ring",
+      "data_points": 12
     }
   ],
   "1113334": [
-    {
-      "timestamp": "2025-08-23T00:35:43.615508",
-      "price": 10748597,
-      "item_name": "Neophyte Ring",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.214531",
       "price": 10781032,
@@ -70587,15 +70581,15 @@
       "price": 10503535,
       "item_name": "Neophyte Ring",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.479822",
+      "price": 10507407,
+      "item_name": "Neophyte Ring",
+      "data_points": 12
     }
   ],
   "1122274": [
-    {
-      "timestamp": "2025-08-23T00:35:43.622946",
-      "price": 452815,
-      "item_name": "Ifia's Necklace",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.222002",
       "price": 453708,
@@ -70949,15 +70943,15 @@
       "price": 480909,
       "item_name": "Ifia's Necklace",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.487497",
+      "price": 474166,
+      "item_name": "Ifia's Necklace",
+      "data_points": 12
     }
   ],
   "1122000": [
-    {
-      "timestamp": "2025-08-23T00:35:43.630427",
-      "price": 478304,
-      "item_name": "Horntail Necklace",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.229486",
       "price": 473933,
@@ -71311,15 +71305,15 @@
       "price": 409717,
       "item_name": "Horntail Necklace",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.495168",
+      "price": 409740,
+      "item_name": "Horntail Necklace",
+      "data_points": 12
     }
   ],
   "1122254": [
-    {
-      "timestamp": "2025-08-23T00:35:43.637919",
-      "price": 696430,
-      "item_name": "Mechanator Pendant",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.236969",
       "price": 694287,
@@ -71673,15 +71667,15 @@
       "price": 695972,
       "item_name": "Mechanator Pendant",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.502885",
+      "price": 700057,
+      "item_name": "Mechanator Pendant",
+      "data_points": 12
     }
   ],
   "1122076": [
-    {
-      "timestamp": "2025-08-23T00:35:43.645371",
-      "price": 820652,
-      "item_name": "Chaos Horntail Necklace",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.244405",
       "price": 810613,
@@ -72035,15 +72029,15 @@
       "price": 923433,
       "item_name": "Chaos Horntail Necklace",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.510668",
+      "price": 908980,
+      "item_name": "Chaos Horntail Necklace",
+      "data_points": 12
     }
   ],
   "1122446": [
-    {
-      "timestamp": "2025-08-23T00:35:43.652894",
-      "price": 2315508,
-      "item_name": "Neophyte Pendant",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.251880",
       "price": 2320478,
@@ -72397,15 +72391,15 @@
       "price": 2400000,
       "item_name": "Neophyte Pendant",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.518372",
+      "price": 2395912,
+      "item_name": "Neophyte Pendant",
+      "data_points": 12
     }
   ],
   "1122150": [
-    {
-      "timestamp": "2025-08-23T00:35:43.660328",
-      "price": 1273770,
-      "item_name": "Dominator Pendant",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.259292",
       "price": 1275254,
@@ -72759,15 +72753,15 @@
       "price": 1324545,
       "item_name": "Dominator Pendant",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.526052",
+      "price": 1321249,
+      "item_name": "Dominator Pendant",
+      "data_points": 12
     }
   ],
   "1132324": [
-    {
-      "timestamp": "2025-08-23T00:35:43.667831",
-      "price": 1773062,
-      "item_name": "Neophyte Belt",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.266773",
       "price": 1773470,
@@ -73121,15 +73115,15 @@
       "price": 1634545,
       "item_name": "Neophyte Belt",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.533753",
+      "price": 1647500,
+      "item_name": "Neophyte Belt",
+      "data_points": 12
     }
   ],
   "1132272": [
-    {
-      "timestamp": "2025-08-23T00:35:43.675297",
-      "price": 1240812,
-      "item_name": "Golden Clover Belt",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.274275",
       "price": 1235470,
@@ -73483,15 +73477,15 @@
       "price": 1279363,
       "item_name": "Golden Clover Belt",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.541435",
+      "price": 1251083,
+      "item_name": "Golden Clover Belt",
+      "data_points": 12
     }
   ],
   "1152223": [
-    {
-      "timestamp": "2025-08-23T00:35:43.682802",
-      "price": 1382423,
-      "item_name": "Neophyte Shoulders",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.281742",
       "price": 1382986,
@@ -73845,15 +73839,15 @@
       "price": 1288180,
       "item_name": "Neophyte Shoulders",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.548979",
+      "price": 1280832,
+      "item_name": "Neophyte Shoulders",
+      "data_points": 12
     }
   ],
   "1152170": [
-    {
-      "timestamp": "2025-08-23T00:35:43.690374",
-      "price": 1215367,
-      "item_name": "Royal Black Metal Shoulder",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.289124",
       "price": 1209169,
@@ -74207,15 +74201,15 @@
       "price": 1156817,
       "item_name": "Royal Black Metal Shoulder",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.556613",
+      "price": 1142916,
+      "item_name": "Royal Black Metal Shoulder",
+      "data_points": 12
     }
   ],
   "1162009": [
-    {
-      "timestamp": "2025-08-23T00:35:43.697938",
-      "price": 626635,
-      "item_name": "Stone of Eternal Life",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.296696",
       "price": 627670,
@@ -74569,15 +74563,15 @@
       "price": 629090,
       "item_name": "Stone of Eternal Life",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.564270",
+      "price": 620185,
+      "item_name": "Stone of Eternal Life",
+      "data_points": 12
     }
   ],
   "1162025": [
-    {
-      "timestamp": "2025-08-23T00:35:43.705508",
-      "price": 3990694,
-      "item_name": "Pink Holy Cup",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.304034",
       "price": 3991241,
@@ -74931,15 +74925,15 @@
       "price": 3486272,
       "item_name": "Pink Holy Cup",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.571859",
+      "price": 3479083,
+      "item_name": "Pink Holy Cup",
+      "data_points": 12
     }
   ],
   "1182087": [
-    {
-      "timestamp": "2025-08-23T00:35:43.713002",
-      "price": 1711041,
-      "item_name": "Crystal Ventus Badge",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.311429",
       "price": 1713333,
@@ -75293,15 +75287,15 @@
       "price": 1676767,
       "item_name": "Crystal Ventus Badge",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.579602",
+      "price": 1653703,
+      "item_name": "Crystal Ventus Badge",
+      "data_points": 12
     }
   ],
   "1182194": [
-    {
-      "timestamp": "2025-08-23T00:35:43.720530",
-      "price": 353750,
-      "item_name": "Badge of Chiu",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.318832",
       "price": 355294,
@@ -75655,15 +75649,15 @@
       "price": 365090,
       "item_name": "Badge of Chiu",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.587249",
+      "price": 363250,
+      "item_name": "Badge of Chiu",
+      "data_points": 12
     }
   ],
   "1182199": [
-    {
-      "timestamp": "2025-08-23T00:35:43.728007",
-      "price": 384937,
-      "item_name": "Badge of Junna",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.326135",
       "price": 385234,
@@ -76017,15 +76011,15 @@
       "price": 375627,
       "item_name": "Badge of Junna",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.594798",
+      "price": 376825,
+      "item_name": "Badge of Junna",
+      "data_points": 12
     }
   ],
   "1182197": [
-    {
-      "timestamp": "2025-08-23T00:35:43.735487",
-      "price": 388000,
-      "item_name": "Badge of Pruba",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.333542",
       "price": 388000,
@@ -76379,15 +76373,15 @@
       "price": 381090,
       "item_name": "Badge of Pruba",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.602358",
+      "price": 378500,
+      "item_name": "Badge of Pruba",
+      "data_points": 12
     }
   ],
   "1182196": [
-    {
-      "timestamp": "2025-08-23T00:35:43.742995",
-      "price": 419562,
-      "item_name": "Badge of Donarr",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.340842",
       "price": 417235,
@@ -76741,15 +76735,15 @@
       "price": 374210,
       "item_name": "Badge of Donarr",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.609940",
+      "price": 368026,
+      "item_name": "Badge of Donarr",
+      "data_points": 12
     }
   ],
   "1182198": [
-    {
-      "timestamp": "2025-08-23T00:35:43.750431",
-      "price": 378687,
-      "item_name": "Badge of Saturnus",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.348223",
       "price": 377529,
@@ -77103,15 +77097,15 @@
       "price": 350000,
       "item_name": "Badge of Saturnus",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.617513",
+      "price": 350000,
+      "item_name": "Badge of Saturnus",
+      "data_points": 12
     }
   ],
   "1182195": [
-    {
-      "timestamp": "2025-08-23T00:35:43.757882",
-      "price": 389374,
-      "item_name": "Badge of Wodan",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.355602",
       "price": 389345,
@@ -77465,15 +77459,15 @@
       "price": 378979,
       "item_name": "Badge of Wodan",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.625063",
+      "price": 379722,
+      "item_name": "Badge of Wodan",
+      "data_points": 12
     }
   ],
   "1182200": [
-    {
-      "timestamp": "2025-08-23T00:35:43.765404",
-      "price": 6999999,
-      "item_name": "Seven Days Badge",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.362911",
       "price": 6999999,
@@ -77827,15 +77821,15 @@
       "price": 6054545,
       "item_name": "Seven Days Badge",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.632717",
+      "price": 6100000,
+      "item_name": "Seven Days Badge",
+      "data_points": 12
     }
   ],
   "1190300": [
-    {
-      "timestamp": "2025-08-23T00:35:43.772879",
-      "price": 3599687,
-      "item_name": "Silver Maple Leaf Emblem",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.370286",
       "price": 3611470,
@@ -78189,15 +78183,15 @@
       "price": 3593282,
       "item_name": "Silver Maple Leaf Emblem",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.640259",
+      "price": 3579259,
+      "item_name": "Silver Maple Leaf Emblem",
+      "data_points": 12
     }
   ],
   "1190301": [
-    {
-      "timestamp": "2025-08-23T00:35:43.780444",
-      "price": 4873485,
-      "item_name": "Gold Maple Leaf Emblem",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.377629",
       "price": 4869162,
@@ -78551,15 +78545,15 @@
       "price": 4618808,
       "item_name": "Gold Maple Leaf Emblem",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.647795",
+      "price": 4632240,
+      "item_name": "Gold Maple Leaf Emblem",
+      "data_points": 12
     }
   ],
   "1022232": [
-    {
-      "timestamp": "2025-08-23T00:35:43.787935",
-      "price": 877402,
-      "item_name": "Black Bean Mark",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.385087",
       "price": 874025,
@@ -78913,15 +78907,15 @@
       "price": 819543,
       "item_name": "Black Bean Mark",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.655426",
+      "price": 807081,
+      "item_name": "Black Bean Mark",
+      "data_points": 12
     }
   ],
   "1312182": [
-    {
-      "timestamp": "2025-08-23T00:35:43.795516",
-      "price": 311875,
-      "item_name": "Zakum's Poisonic Axe",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.392513",
       "price": 311764,
@@ -79275,15 +79269,15 @@
       "price": 298181,
       "item_name": "Zakum's Poisonic Axe",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.663061",
+      "price": 298332,
+      "item_name": "Zakum's Poisonic Axe",
+      "data_points": 12
     }
   ],
   "1302312": [
-    {
-      "timestamp": "2025-08-23T00:35:43.803058",
-      "price": 310000,
-      "item_name": "Zakum's Poisonic Sword",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.399928",
       "price": 310000,
@@ -79637,15 +79631,15 @@
       "price": 280363,
       "item_name": "Zakum's Poisonic Sword",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.670655",
+      "price": 281999,
+      "item_name": "Zakum's Poisonic Sword",
+      "data_points": 12
     }
   ],
   "1322233": [
-    {
-      "timestamp": "2025-08-23T00:35:43.810482",
-      "price": 298062,
-      "item_name": "Zakum's Poisonic Hammer",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.407397",
       "price": 299352,
@@ -79999,15 +79993,15 @@
       "price": 299999,
       "item_name": "Zakum's Poisonic Hammer",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.678257",
+      "price": 299999,
+      "item_name": "Zakum's Poisonic Hammer",
+      "data_points": 12
     }
   ],
   "1442251": [
-    {
-      "timestamp": "2025-08-23T00:35:43.818085",
-      "price": 628985,
-      "item_name": "Zakum's Poisonic Polearm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.414987",
       "price": 630548,
@@ -80361,15 +80355,15 @@
       "price": 745454,
       "item_name": "Zakum's Poisonic Polearm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.685904",
+      "price": 744999,
+      "item_name": "Zakum's Poisonic Polearm",
+      "data_points": 12
     }
   ],
   "1412161": [
-    {
-      "timestamp": "2025-08-23T00:35:43.825564",
-      "price": 318888,
-      "item_name": "Zakum's Poisonic Two-handed Axe",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.422475",
       "price": 318888,
@@ -80723,15 +80717,15 @@
       "price": 300000,
       "item_name": "Zakum's Poisonic Two-handed Axe",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.693466",
+      "price": 300000,
+      "item_name": "Zakum's Poisonic Two-handed Axe",
+      "data_points": 12
     }
   ],
   "1422168": [
-    {
-      "timestamp": "2025-08-23T00:35:43.833139",
-      "price": 316562,
-      "item_name": "Zakum's Poisonic Sledgehammer",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.429969",
       "price": 316470,
@@ -81085,15 +81079,15 @@
       "price": 304752,
       "item_name": "Zakum's Poisonic Sledgehammer",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.701160",
+      "price": 304792,
+      "item_name": "Zakum's Poisonic Sledgehammer",
+      "data_points": 12
     }
   ],
   "1402233": [
-    {
-      "timestamp": "2025-08-23T00:35:43.840715",
-      "price": 299999,
-      "item_name": "Zakum's Poisonic Two-handed Sword",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.437416",
       "price": 299999,
@@ -81447,15 +81441,15 @@
       "price": 299363,
       "item_name": "Zakum's Poisonic Two-handed Sword",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.708784",
+      "price": 299416,
+      "item_name": "Zakum's Poisonic Two-handed Sword",
+      "data_points": 12
     }
   ],
   "1432197": [
-    {
-      "timestamp": "2025-08-23T00:35:43.848272",
-      "price": 319924,
-      "item_name": "Zakum's Poisonic Spear",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.444963",
       "price": 319928,
@@ -81809,15 +81803,15 @@
       "price": 309999,
       "item_name": "Zakum's Poisonic Spear",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.716450",
+      "price": 309165,
+      "item_name": "Zakum's Poisonic Spear",
+      "data_points": 12
     }
   ],
   "1312112": [
-    {
-      "timestamp": "2025-08-23T00:35:43.855824",
-      "price": 276874,
-      "item_name": "Necro Headsplitter",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.452434",
       "price": 276862,
@@ -82171,15 +82165,15 @@
       "price": 274545,
       "item_name": "Necro Headsplitter",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.724025",
+      "price": 272500,
+      "item_name": "Necro Headsplitter",
+      "data_points": 12
     }
   ],
   "1302213": [
-    {
-      "timestamp": "2025-08-23T00:35:43.863364",
-      "price": 285000,
-      "item_name": "Necro Terror",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.459842",
       "price": 285000,
@@ -82533,15 +82527,15 @@
       "price": 280605,
       "item_name": "Necro Terror",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.731659",
+      "price": 278888,
+      "item_name": "Necro Terror",
+      "data_points": 12
     }
   ],
   "1442171": [
-    {
-      "timestamp": "2025-08-23T00:35:43.870946",
-      "price": 315555,
-      "item_name": "Necro Polearm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.467332",
       "price": 315555,
@@ -82895,15 +82889,15 @@
       "price": 281875,
       "item_name": "Necro Polearm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.739307",
+      "price": 285203,
+      "item_name": "Necro Polearm",
+      "data_points": 12
     }
   ],
   "1412100": [
-    {
-      "timestamp": "2025-08-23T00:35:43.878413",
-      "price": 279860,
-      "item_name": "Necro Giant Axe",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.474789",
       "price": 279737,
@@ -83257,15 +83251,15 @@
       "price": 274545,
       "item_name": "Necro Giant Axe",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.746956",
+      "price": 272500,
+      "item_name": "Necro Giant Axe",
+      "data_points": 12
     }
   ],
   "1322151": [
-    {
-      "timestamp": "2025-08-23T00:35:43.885935",
-      "price": 279026,
-      "item_name": "Necro Hammer",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.482280",
       "price": 279083,
@@ -83619,15 +83613,15 @@
       "price": 267818,
       "item_name": "Necro Hammer",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.754790",
+      "price": 267000,
+      "item_name": "Necro Hammer",
+      "data_points": 12
     }
   ],
   "1402143": [
-    {
-      "timestamp": "2025-08-23T00:35:43.893442",
-      "price": 208250,
-      "item_name": "Necro Zweihander",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.489771",
       "price": 209529,
@@ -83981,15 +83975,15 @@
       "price": 274545,
       "item_name": "Necro Zweihander",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.762705",
+      "price": 273250,
+      "item_name": "Necro Zweihander",
+      "data_points": 12
     }
   ],
   "1422103": [
-    {
-      "timestamp": "2025-08-23T00:35:43.901137",
-      "price": 279590,
-      "item_name": "Necro Maul",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.497223",
       "price": 279537,
@@ -84343,15 +84337,15 @@
       "price": 278725,
       "item_name": "Necro Maul",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.770267",
+      "price": 278738,
+      "item_name": "Necro Maul",
+      "data_points": 12
     }
   ],
   "1432133": [
-    {
-      "timestamp": "2025-08-23T00:35:43.908441",
-      "price": 279743,
-      "item_name": "Necro Spear",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.504737",
       "price": 280045,
@@ -84705,15 +84699,15 @@
       "price": 275544,
       "item_name": "Necro Spear",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.777766",
+      "price": 274249,
+      "item_name": "Necro Spear",
+      "data_points": 12
     }
   ],
   "1402095": [
-    {
-      "timestamp": "2025-08-23T00:35:43.915794",
-      "price": 310000,
-      "item_name": "Lionheart Battle Scimitar",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.512303",
       "price": 310000,
@@ -85067,15 +85061,15 @@
       "price": 310000,
       "item_name": "Lionheart Battle Scimitar",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.785277",
+      "price": 310000,
+      "item_name": "Lionheart Battle Scimitar",
+      "data_points": 12
     }
   ],
   "1432086": [
-    {
-      "timestamp": "2025-08-23T00:35:43.923125",
-      "price": 329999,
-      "item_name": "Lionheart Fuscina",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.519807",
       "price": 329999,
@@ -85429,15 +85423,15 @@
       "price": 283636,
       "item_name": "Lionheart Fuscina",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.792816",
+      "price": 285833,
+      "item_name": "Lionheart Fuscina",
+      "data_points": 12
     }
   ],
   "1372084": [
-    {
-      "timestamp": "2025-08-23T00:35:43.930430",
-      "price": 1018001,
-      "item_name": "Dragon Tail Arc Wand",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.527196",
       "price": 1018001,
@@ -85791,15 +85785,15 @@
       "price": 1018001,
       "item_name": "Dragon Tail Arc Wand",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.800332",
+      "price": 1018001,
+      "item_name": "Dragon Tail Arc Wand",
+      "data_points": 12
     }
   ],
   "1382104": [
-    {
-      "timestamp": "2025-08-23T00:35:43.937754",
-      "price": 1200000,
-      "item_name": "Dragon Tail War Staff",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.534901",
       "price": 1200000,
@@ -86153,15 +86147,15 @@
       "price": 1096062,
       "item_name": "Dragon Tail War Staff",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.807940",
+      "price": 1096391,
+      "item_name": "Dragon Tail War Staff",
+      "data_points": 12
     }
   ],
   "1462099": [
-    {
-      "timestamp": "2025-08-23T00:35:43.945127",
-      "price": 499999,
-      "item_name": "Falcon Wing Heavy Crossbow",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.542393",
       "price": 499999,
@@ -86515,15 +86509,15 @@
       "price": 484341,
       "item_name": "Falcon Wing Heavy Crossbow",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.815424",
+      "price": 483793,
+      "item_name": "Falcon Wing Heavy Crossbow",
+      "data_points": 12
     }
   ],
   "1006516": [
-    {
-      "timestamp": "2025-08-23T00:35:43.952405",
-      "price": 624283,
-      "item_name": "Unchained Sentinel Helm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.549829",
       "price": 622854,
@@ -86877,15 +86871,15 @@
       "price": 527272,
       "item_name": "Unchained Sentinel Helm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.823012",
+      "price": 524999,
+      "item_name": "Unchained Sentinel Helm",
+      "data_points": 12
     }
   ],
   "1082807": [
-    {
-      "timestamp": "2025-08-23T00:35:43.959768",
-      "price": 597916,
-      "item_name": "Unchained Sentinel Hands",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.557231",
       "price": 596862,
@@ -87239,15 +87233,15 @@
       "price": 582636,
       "item_name": "Unchained Sentinel Hands",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.830746",
+      "price": 584083,
+      "item_name": "Unchained Sentinel Hands",
+      "data_points": 12
     }
   ],
   "1073921": [
-    {
-      "timestamp": "2025-08-23T00:35:43.967057",
-      "price": 547464,
-      "item_name": "Unchained Sentinel Boots",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.564680",
       "price": 544966,
@@ -87601,15 +87595,15 @@
       "price": 444949,
       "item_name": "Unchained Sentinel Boots",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.838433",
+      "price": 444907,
+      "item_name": "Unchained Sentinel Boots",
+      "data_points": 12
     }
   ],
   "1054173": [
-    {
-      "timestamp": "2025-08-23T00:35:43.974439",
-      "price": 615138,
-      "item_name": "Unchained Sentinel Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.572093",
       "price": 614248,
@@ -87963,15 +87957,15 @@
       "price": 489999,
       "item_name": "Unchained Sentinel Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.846003",
+      "price": 491666,
+      "item_name": "Unchained Sentinel Suit",
+      "data_points": 12
     }
   ],
   "1054171": [
-    {
-      "timestamp": "2025-08-23T00:35:43.981822",
-      "price": 918739,
-      "item_name": "Unchained Warrior Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.579637",
       "price": 903911,
@@ -88325,15 +88319,15 @@
       "price": 801818,
       "item_name": "Unchained Warrior Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.853664",
+      "price": 799814,
+      "item_name": "Unchained Warrior Suit",
+      "data_points": 12
     }
   ],
   "1072974": [
-    {
-      "timestamp": "2025-08-23T00:35:43.989217",
-      "price": 321430,
-      "item_name": "Royal Von Leon Sentinel Boots",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.587024",
       "price": 321280,
@@ -88687,15 +88681,15 @@
       "price": 326565,
       "item_name": "Royal Von Leon Sentinel Boots",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.861448",
+      "price": 323517,
+      "item_name": "Royal Von Leon Sentinel Boots",
+      "data_points": 12
     }
   ],
   "1102715": [
-    {
-      "timestamp": "2025-08-23T00:35:43.996561",
-      "price": 345437,
-      "item_name": "Royal Von Leon Sentinel Cape",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.594514",
       "price": 345117,
@@ -89049,15 +89043,15 @@
       "price": 359050,
       "item_name": "Royal Von Leon Sentinel Cape",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.869176",
+      "price": 354129,
+      "item_name": "Royal Von Leon Sentinel Cape",
+      "data_points": 12
     }
   ],
   "1004236": [
-    {
-      "timestamp": "2025-08-23T00:35:44.004016",
-      "price": 347000,
-      "item_name": "Royal Von Leon Sentinel Helm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.601896",
       "price": 347176,
@@ -89411,15 +89405,15 @@
       "price": 331615,
       "item_name": "Royal Von Leon Sentinel Helm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.876807",
+      "price": 330462,
+      "item_name": "Royal Von Leon Sentinel Helm",
+      "data_points": 12
     }
   ],
   "1052806": [
-    {
-      "timestamp": "2025-08-23T00:35:44.011379",
-      "price": 340062,
-      "item_name": "Royal Von Leon Sentinel Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.609401",
       "price": 340058,
@@ -89773,15 +89767,15 @@
       "price": 339534,
       "item_name": "Royal Von Leon Sentinel Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.884468",
+      "price": 339147,
+      "item_name": "Royal Von Leon Sentinel Suit",
+      "data_points": 12
     }
   ],
   "1082615": [
-    {
-      "timestamp": "2025-08-23T00:35:44.018820",
-      "price": 367499,
-      "item_name": "Royal Von Leon Sentinel Hands",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.616836",
       "price": 366470,
@@ -90135,15 +90129,15 @@
       "price": 333939,
       "item_name": "Royal Von Leon Sentinel Hands",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.891997",
+      "price": 335194,
+      "item_name": "Royal Von Leon Sentinel Hands",
+      "data_points": 12
     }
   ],
   "1052316": [
-    {
-      "timestamp": "2025-08-23T00:35:44.026169",
-      "price": 450972,
-      "item_name": "Falcon Wing Sentinel Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.624355",
       "price": 451830,
@@ -90497,15 +90491,15 @@
       "price": 460000,
       "item_name": "Falcon Wing Sentinel Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.899632",
+      "price": 459083,
+      "item_name": "Falcon Wing Sentinel Suit",
+      "data_points": 12
     }
   ],
   "1003174": [
-    {
-      "timestamp": "2025-08-23T00:35:44.033685",
-      "price": 474854,
-      "item_name": "Falcon Wing Sentinel Cap",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.631762",
       "price": 474980,
@@ -90859,15 +90853,15 @@
       "price": 477000,
       "item_name": "Falcon Wing Sentinel Cap",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.907152",
+      "price": 473083,
+      "item_name": "Falcon Wing Sentinel Cap",
+      "data_points": 12
     }
   ],
   "1072487": [
-    {
-      "timestamp": "2025-08-23T00:35:44.041176",
-      "price": 460000,
-      "item_name": "Falcon Wing Sentinel Boots",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.639212",
       "price": 460000,
@@ -91221,15 +91215,15 @@
       "price": 460000,
       "item_name": "Falcon Wing Sentinel Boots",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.914712",
+      "price": 459583,
+      "item_name": "Falcon Wing Sentinel Boots",
+      "data_points": 12
     }
   ],
   "1082297": [
-    {
-      "timestamp": "2025-08-23T00:35:44.048589",
-      "price": 422222,
-      "item_name": "Falcon Wing Sentinel Gloves",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.646611",
       "price": 422222,
@@ -91583,15 +91577,15 @@
       "price": 715000,
       "item_name": "Falcon Wing Sentinel Gloves",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.922209",
+      "price": 702916,
+      "item_name": "Falcon Wing Sentinel Gloves",
+      "data_points": 12
     }
   ],
   "1102277": [
-    {
-      "timestamp": "2025-08-23T00:35:44.055982",
-      "price": 494374,
-      "item_name": "Falcon Wing Sentinel Cape",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.654109",
       "price": 494705,
@@ -91945,15 +91939,15 @@
       "price": 584311,
       "item_name": "Falcon Wing Sentinel Cape",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.929909",
+      "price": 577285,
+      "item_name": "Falcon Wing Sentinel Cape",
+      "data_points": 12
     }
   ],
   "1102279": [
-    {
-      "timestamp": "2025-08-23T00:35:44.063394",
-      "price": 641944,
-      "item_name": "Shark Tooth Skipper Cape",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.661553",
       "price": 653594,
@@ -92307,15 +92301,15 @@
       "price": 840000,
       "item_name": "Shark Tooth Skipper Cape",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.937573",
+      "price": 840000,
+      "item_name": "Shark Tooth Skipper Cape",
+      "data_points": 12
     }
   ],
   "1082299": [
-    {
-      "timestamp": "2025-08-23T00:35:44.070826",
-      "price": 609488,
-      "item_name": "Shark Tooth Skipper Gloves",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.669055",
       "price": 609488,
@@ -92669,15 +92663,15 @@
       "price": 610000,
       "item_name": "Shark Tooth Skipper Gloves",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.945227",
+      "price": 610000,
+      "item_name": "Shark Tooth Skipper Gloves",
+      "data_points": 12
     }
   ],
   "1082295": [
-    {
-      "timestamp": "2025-08-23T00:35:44.078239",
-      "price": 950000,
-      "item_name": "Lionheart Battle Bracers",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.676463",
       "price": 950000,
@@ -93031,15 +93025,15 @@
       "price": 949909,
       "item_name": "Lionheart Battle Bracers",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.952743",
+      "price": 949833,
+      "item_name": "Lionheart Battle Bracers",
+      "data_points": 12
     }
   ],
   "1422140": [
-    {
-      "timestamp": "2025-08-23T00:35:44.085614",
-      "price": 7000000,
-      "item_name": "Fafnir Lightning Striker",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.683957",
       "price": 7000000,
@@ -93393,15 +93387,15 @@
       "price": 7000000,
       "item_name": "Fafnir Lightning Striker",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.960357",
+      "price": 7000000,
+      "item_name": "Fafnir Lightning Striker",
+      "data_points": 12
     }
   ],
   "1412135": [
-    {
-      "timestamp": "2025-08-23T00:35:44.093073",
-      "price": 4175000,
-      "item_name": "Fafnir Battle Cleaver",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.691426",
       "price": 4164705,
@@ -93755,15 +93749,15 @@
       "price": 4000000,
       "item_name": "Fafnir Battle Cleaver",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.967849",
+      "price": 4000000,
+      "item_name": "Fafnir Battle Cleaver",
+      "data_points": 12
     }
   ],
   "1332225": [
-    {
-      "timestamp": "2025-08-23T00:35:44.100471",
-      "price": 13843750,
-      "item_name": "Fafnir Damascus",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.698915",
       "price": 13823529,
@@ -94117,15 +94111,15 @@
       "price": 14000000,
       "item_name": "Fafnir Damascus",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.975404",
+      "price": 14000000,
+      "item_name": "Fafnir Damascus",
+      "data_points": 12
     }
   ],
   "1402196": [
-    {
-      "timestamp": "2025-08-23T00:35:44.107931",
-      "price": 6500000,
-      "item_name": "Fafnir Penitent Tears",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.706560",
       "price": 6500000,
@@ -94479,15 +94473,15 @@
       "price": 7000000,
       "item_name": "Fafnir Penitent Tears",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.982993",
+      "price": 7000000,
+      "item_name": "Fafnir Penitent Tears",
+      "data_points": 12
     }
   ],
   "1322203": [
-    {
-      "timestamp": "2025-08-23T00:35:44.115360",
-      "price": 4000000,
-      "item_name": "Fafnir Guardian Hammer",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.713926",
       "price": 4000000,
@@ -94841,15 +94835,15 @@
       "price": 3954545,
       "item_name": "Fafnir Guardian Hammer",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.990602",
+      "price": 3916666,
+      "item_name": "Fafnir Guardian Hammer",
+      "data_points": 12
     }
   ],
   "1372177": [
-    {
-      "timestamp": "2025-08-23T00:35:44.122725",
-      "price": 9312500,
-      "item_name": "Fafnir Mana Taker",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.721399",
       "price": 9294117,
@@ -95203,15 +95197,15 @@
       "price": 9444444,
       "item_name": "Fafnir Mana Taker",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:56.998154",
+      "price": 9444444,
+      "item_name": "Fafnir Mana Taker",
+      "data_points": 12
     }
   ],
   "1003622": [
-    {
-      "timestamp": "2025-08-23T00:35:44.130172",
-      "price": 430000,
-      "item_name": "Black Bean Hat",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.728801",
       "price": 430000,
@@ -95565,15 +95559,15 @@
       "price": 410454,
       "item_name": "Black Bean Hat",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:57.005820",
+      "price": 405000,
+      "item_name": "Black Bean Hat",
+      "data_points": 12
     }
   ],
   "1052527": [
-    {
-      "timestamp": "2025-08-23T00:35:44.137602",
-      "price": 542000,
-      "item_name": "Black Bean Suit",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.736305",
       "price": 541882,
@@ -95927,15 +95921,15 @@
       "price": 482727,
       "item_name": "Black Bean Suit",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:57.013413",
+      "price": 474999,
+      "item_name": "Black Bean Suit",
+      "data_points": 12
     }
   ],
   "1072376": [
-    {
-      "timestamp": "2025-08-23T00:35:44.145094",
-      "price": 660304,
-      "item_name": "Balrog's Fur Shoes",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.743846",
       "price": 661463,
@@ -96289,15 +96283,15 @@
       "price": 630000,
       "item_name": "Balrog's Fur Shoes",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:57.021039",
+      "price": 630833,
+      "item_name": "Balrog's Fur Shoes",
+      "data_points": 12
     }
   ],
   "1003721": [
-    {
-      "timestamp": "2025-08-23T00:35:44.152556",
-      "price": 369980,
-      "item_name": "Chaos Queen's Tiara",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.751368",
       "price": 369980,
@@ -96651,15 +96645,15 @@
       "price": 427090,
       "item_name": "Chaos Queen's Tiara",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:57.028708",
+      "price": 420499,
+      "item_name": "Chaos Queen's Tiara",
+      "data_points": 12
     }
   ],
   "1003717": [
-    {
-      "timestamp": "2025-08-23T00:35:44.159964",
-      "price": 314750,
-      "item_name": "Queen's Tiara",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.758810",
       "price": 315058,
@@ -97013,15 +97007,15 @@
       "price": 292636,
       "item_name": "Queen's Tiara",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:57.036241",
+      "price": 294041,
+      "item_name": "Queen's Tiara",
+      "data_points": 12
     }
   ],
   "1003720": [
-    {
-      "timestamp": "2025-08-23T00:35:44.167400",
-      "price": 349000,
-      "item_name": "Chaos Von Bon Helmet",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.766252",
       "price": 349000,
@@ -97375,15 +97369,15 @@
       "price": 361545,
       "item_name": "Chaos Von Bon Helmet",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:57.043862",
+      "price": 360583,
+      "item_name": "Chaos Von Bon Helmet",
+      "data_points": 12
     }
   ],
   "1003716": [
-    {
-      "timestamp": "2025-08-23T00:35:44.174881",
-      "price": 314721,
-      "item_name": "Von Bon Helmet",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.773794",
       "price": 314444,
@@ -97737,15 +97731,15 @@
       "price": 304030,
       "item_name": "Von Bon Helmet",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:57.051465",
+      "price": 303694,
+      "item_name": "Von Bon Helmet",
+      "data_points": 12
     }
   ],
   "1003719": [
-    {
-      "timestamp": "2025-08-23T00:35:44.182292",
-      "price": 355231,
-      "item_name": "Chaos Pierre Hat",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.781349",
       "price": 355500,
@@ -98099,15 +98093,15 @@
       "price": 365999,
       "item_name": "Chaos Pierre Hat",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:57.059082",
+      "price": 362415,
+      "item_name": "Chaos Pierre Hat",
+      "data_points": 12
     }
   ],
   "1003715": [
-    {
-      "timestamp": "2025-08-23T00:35:44.189737",
-      "price": 310000,
-      "item_name": "Pierre Hat",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.788824",
       "price": 310000,
@@ -98461,15 +98455,15 @@
       "price": 294959,
       "item_name": "Pierre Hat",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:57.066698",
+      "price": 295379,
+      "item_name": "Pierre Hat",
+      "data_points": 12
     }
   ],
   "1003722": [
-    {
-      "timestamp": "2025-08-23T00:35:44.197167",
-      "price": 349270,
-      "item_name": "Chaos Vellum's Helm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.796289",
       "price": 349306,
@@ -98823,15 +98817,15 @@
       "price": 638070,
       "item_name": "Chaos Vellum's Helm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:57.074311",
+      "price": 616564,
+      "item_name": "Chaos Vellum's Helm",
+      "data_points": 12
     }
   ],
   "1003718": [
-    {
-      "timestamp": "2025-08-23T00:35:44.204613",
-      "price": 310000,
-      "item_name": "Vellum's Helm",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.803732",
       "price": 310000,
@@ -99185,15 +99179,15 @@
       "price": 306818,
       "item_name": "Vellum's Helm",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:57.081971",
+      "price": 306250,
+      "item_name": "Vellum's Helm",
+      "data_points": 12
     }
   ],
   "1452205": [
-    {
-      "timestamp": "2025-08-23T00:35:42.260233",
-      "price": 6490000,
-      "item_name": "Fafnir Wind Chaser",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.850060",
       "price": 6490000,
@@ -99547,15 +99541,15 @@
       "price": 6250000,
       "item_name": "Fafnir Wind Chaser",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.036980",
+      "price": 6250000,
+      "item_name": "Fafnir Wind Chaser",
+      "data_points": 12
     }
   ],
   "1312153": [
-    {
-      "timestamp": "2025-08-23T00:35:42.267383",
-      "price": 1555555,
-      "item_name": "Fafnir Twin Cleaver",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.857229",
       "price": 1555555,
@@ -99909,15 +99903,15 @@
       "price": 3000000,
       "item_name": "Fafnir Twin Cleaver",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.044490",
+      "price": 3000000,
+      "item_name": "Fafnir Twin Cleaver",
+      "data_points": 12
     }
   ],
   "1402180": [
-    {
-      "timestamp": "2025-08-23T00:35:44.212101",
-      "price": 29990000,
-      "item_name": "Liberated Kaiserium",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:31.811225",
       "price": 29990000,
@@ -100271,15 +100265,15 @@
       "price": 25555555,
       "item_name": "Liberated Kaiserium",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:57.089794",
+      "price": 25555555,
+      "item_name": "Liberated Kaiserium",
+      "data_points": 12
     }
   ],
   "1432167": [
-    {
-      "timestamp": "2025-08-23T00:35:42.238497",
-      "price": 7000000,
-      "item_name": "Fafnir Brionak",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.828457",
       "price": 7000000,
@@ -100633,15 +100627,15 @@
       "price": 7000000,
       "item_name": "Fafnir Brionak",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.012258",
+      "price": 7000000,
+      "item_name": "Fafnir Brionak",
+      "data_points": 12
     }
   ],
   "1462193": [
-    {
-      "timestamp": "2025-08-23T00:35:42.245668",
-      "price": 6800000,
-      "item_name": "Fafnir Windwing Shooter",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.835530",
       "price": 6800000,
@@ -100995,15 +100989,15 @@
       "price": 5000000,
       "item_name": "Fafnir Windwing Shooter",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:55.019842",
+      "price": 5000000,
+      "item_name": "Fafnir Windwing Shooter",
+      "data_points": 12
     }
   ],
   "1302275": [
-    {
-      "timestamp": "2025-08-23T00:35:42.224331",
-      "price": 4444444,
-      "item_name": "Fafnir Mistilteinn",
-      "data_points": 16
-    },
     {
       "timestamp": "2025-08-23T00:53:29.814204",
       "price": 4444444,
@@ -101357,6 +101351,12 @@
       "price": 4444444,
       "item_name": "Fafnir Mistilteinn",
       "data_points": 11
+    },
+    {
+      "timestamp": "2025-08-24T13:12:54.996868",
+      "price": 4444444,
+      "item_name": "Fafnir Mistilteinn",
+      "data_points": 12
     }
   ]
 }
