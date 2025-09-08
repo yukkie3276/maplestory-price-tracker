@@ -15,7 +15,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821956"
+    "last_updated": "2025-09-09T06:54:21.810255"
   },
   "1152111": {
     "item_name": "Falcon Wing Sentinel Shoulder",
@@ -33,7 +33,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821961"
+    "last_updated": "2025-09-09T06:54:21.810257"
   },
   "1152108": {
     "item_name": "Lionheart Battle Shoulder",
@@ -51,7 +51,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821966"
+    "last_updated": "2025-09-09T06:54:21.810260"
   },
   "1152112": {
     "item_name": "Raven Horn Chaser Shoulder",
@@ -69,7 +69,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821970"
+    "last_updated": "2025-09-09T06:54:21.810262"
   },
   "1152113": {
     "item_name": "Shark Tooth Skipper Shoulder",
@@ -87,7 +87,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821975"
+    "last_updated": "2025-09-09T06:54:21.810265"
   },
   "1062167": {
     "item_name": "Trixter Ranger Pants",
@@ -105,7 +105,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821979"
+    "last_updated": "2025-09-09T06:54:21.810267"
   },
   "1062168": {
     "item_name": "Trixter Assassin Pants",
@@ -123,7 +123,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821984"
+    "last_updated": "2025-09-09T06:54:21.810270"
   },
   "1062165": {
     "item_name": "Trixter Warrior Pants",
@@ -141,7 +141,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821989"
+    "last_updated": "2025-09-09T06:54:21.810272"
   },
   "1003799": {
     "item_name": "Royal Ranger Beret",
@@ -159,7 +159,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821993"
+    "last_updated": "2025-09-09T06:54:21.810275"
   },
   "1302275": {
     "item_name": "Fafnir Mistilteinn",
@@ -177,7 +177,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821998"
+    "last_updated": "2025-09-09T06:54:21.810278"
   },
   "1492179": {
     "item_name": "Fafnir Zeliska",
@@ -195,7 +195,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822002"
+    "last_updated": "2025-09-09T06:54:21.810280"
   },
   "1432167": {
     "item_name": "Fafnir Brionak",
@@ -213,7 +213,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822007"
+    "last_updated": "2025-09-09T06:54:21.810283"
   },
   "1462193": {
     "item_name": "Fafnir Windwing Shooter",
@@ -231,14 +231,14 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822011"
+    "last_updated": "2025-09-09T06:54:21.810285"
   },
   "1442223": {
     "item_name": "Fafnir Moon Glaive",
     "image_url": "https://api-static.msu.io/itemimages/icon/1442223.png",
     "item_id": "1442223",
     "item_price": "4,999,999",
-    "status": "価格更新済み（7データ上下限フィルタリング正常価格）",
+    "status": "価格取得失敗",
     "categories": [
       "Weapon",
       "Two-handed Weapon",
@@ -267,7 +267,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822020"
+    "last_updated": "2025-09-09T06:54:21.810288"
   },
   "1312153": {
     "item_name": "Fafnir Twin Cleaver",
@@ -285,7 +285,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822025"
+    "last_updated": "2025-09-09T06:54:21.810290"
   },
   "1482168": {
     "item_name": "Fafnir Perry Talon",
@@ -303,7 +303,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822029"
+    "last_updated": "2025-09-09T06:54:21.810292"
   },
   "1472214": {
     "item_name": "Fafnir Risk Holder",
@@ -321,7 +321,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822033"
+    "last_updated": "2025-09-09T06:54:21.810294"
   },
   "1382208": {
     "item_name": "Fafnir Mana Crown",
@@ -339,7 +339,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822038"
+    "last_updated": "2025-09-09T06:54:21.810297"
   },
   "1382285": {
     "item_name": "Unchained Staff",
@@ -357,7 +357,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822042"
+    "last_updated": "2025-09-09T06:54:21.810299"
   },
   "1352232": {
     "item_name": "Rusty Book <Epode>",
@@ -375,7 +375,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822046"
+    "last_updated": "2025-09-09T06:54:21.810301"
   },
   "1372249": {
     "item_name": "Unchained Wand",
@@ -393,7 +393,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822050"
+    "last_updated": "2025-09-09T06:54:21.810303"
   },
   "1352233": {
     "item_name": "Evolving Rusty Book <Epode>",
@@ -411,7 +411,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822055"
+    "last_updated": "2025-09-09T06:54:21.810306"
   },
   "1352252": {
     "item_name": "White Gold Book <Epode>",
@@ -429,7 +429,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822059"
+    "last_updated": "2025-09-09T06:54:21.810308"
   },
   "1382242": {
     "item_name": "Zakum's Poisonic Staff",
@@ -447,7 +447,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822063"
+    "last_updated": "2025-09-09T06:54:21.810310"
   },
   "1372204": {
     "item_name": "Zakum's Poisonic Wand",
@@ -465,7 +465,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822088"
+    "last_updated": "2025-09-09T06:54:21.810312"
   },
   "1352253": {
     "item_name": "Evolving White Gold Book <Epode>",
@@ -483,7 +483,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822096"
+    "last_updated": "2025-09-09T06:54:21.810314"
   },
   "1382159": {
     "item_name": "Necro Rod",
@@ -501,7 +501,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822104"
+    "last_updated": "2025-09-09T06:54:21.810317"
   },
   "1372132": {
     "item_name": "Necro Wand",
@@ -519,7 +519,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822112"
+    "last_updated": "2025-09-09T06:54:21.810319"
   },
   "1352243": {
     "item_name": "Evolving Metallic Blue Book <Epode>",
@@ -537,7 +537,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822117"
+    "last_updated": "2025-09-09T06:54:21.810321"
   },
   "1352242": {
     "item_name": "Metallic Blue Book <Epode>",
@@ -555,7 +555,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822121"
+    "last_updated": "2025-09-09T06:54:21.810323"
   },
   "1382246": {
     "item_name": "Royal Von Leon Staff",
@@ -573,7 +573,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822125"
+    "last_updated": "2025-09-09T06:54:21.810325"
   },
   "1372208": {
     "item_name": "Royal Von Leon Wand",
@@ -591,7 +591,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822130"
+    "last_updated": "2025-09-09T06:54:21.810328"
   },
   "1422066": {
     "item_name": "Lionheart Blast Maul",
@@ -609,7 +609,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822134"
+    "last_updated": "2025-09-09T06:54:21.810330"
   },
   "1352213": {
     "item_name": "Evolving Sacred Rosary",
@@ -627,7 +627,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822139"
+    "last_updated": "2025-09-09T06:54:21.810332"
   },
   "1412065": {
     "item_name": "Lionheart Battle Axe",
@@ -645,7 +645,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822143"
+    "last_updated": "2025-09-09T06:54:21.810335"
   },
   "1352203": {
     "item_name": "Evolving Virtues Medal",
@@ -663,7 +663,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822147"
+    "last_updated": "2025-09-09T06:54:21.810337"
   },
   "1442116": {
     "item_name": "Lionheart Partisan",
@@ -681,7 +681,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822152"
+    "last_updated": "2025-09-09T06:54:21.810339"
   },
   "1302152": {
     "item_name": "Lionheart Cutlass",
@@ -699,7 +699,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822156"
+    "last_updated": "2025-09-09T06:54:21.810341"
   },
   "1322096": {
     "item_name": "Lionheart Battle Hammer",
@@ -717,7 +717,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822161"
+    "last_updated": "2025-09-09T06:54:21.810344"
   },
   "1312065": {
     "item_name": "Lionheart Champion Axe",
@@ -735,7 +735,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822165"
+    "last_updated": "2025-09-09T06:54:21.810346"
   },
   "1352222": {
     "item_name": "Berserk Chain",
@@ -753,7 +753,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822169"
+    "last_updated": "2025-09-09T06:54:21.810348"
   },
   "1402288": {
     "item_name": "Unchained Two-handed Sword",
@@ -771,7 +771,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822173"
+    "last_updated": "2025-09-09T06:54:21.810351"
   },
   "1432238": {
     "item_name": "Unchained Spear",
@@ -789,7 +789,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822178"
+    "last_updated": "2025-09-09T06:54:21.810353"
   },
   "1422206": {
     "item_name": "Unchained Two-handed Hammer",
@@ -807,7 +807,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822182"
+    "last_updated": "2025-09-09T06:54:21.810355"
   },
   "1322277": {
     "item_name": "Unchained Hammer",
@@ -825,7 +825,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822186"
+    "last_updated": "2025-09-09T06:54:21.810358"
   },
   "1302371": {
     "item_name": "Unchained Saber",
@@ -843,7 +843,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822191"
+    "last_updated": "2025-09-09T06:54:21.810044"
   },
   "1302316": {
     "item_name": "Royal Von Leon Saber",
@@ -861,7 +861,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822195"
+    "last_updated": "2025-09-09T06:54:21.810046"
   },
   "1322237": {
     "item_name": "Royal Von Leon Hammer",
@@ -879,7 +879,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822200"
+    "last_updated": "2025-09-09T06:54:21.810049"
   },
   "1402205": {
     "item_name": "Kaiserion",
@@ -915,7 +915,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822205"
+    "last_updated": "2025-09-09T06:54:21.810052"
   },
   "1442255": {
     "item_name": "Royal Von Leon Hellslayer",
@@ -933,7 +933,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822210"
+    "last_updated": "2025-09-09T06:54:21.810054"
   },
   "1422186": {
     "item_name": "Royal Von Leon Two-Handed Hammer",
@@ -951,7 +951,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822214"
+    "last_updated": "2025-09-09T06:54:21.810056"
   },
   "1412179": {
     "item_name": "Royal Von Leon Two-Handed Axe",
@@ -969,7 +969,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822218"
+    "last_updated": "2025-09-09T06:54:21.810059"
   },
   "1352202": {
     "item_name": "Virtues Medallion",
@@ -987,7 +987,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822223"
+    "last_updated": "2025-09-09T06:54:21.810061"
   },
   "1402237": {
     "item_name": "Royal Von Leon Sword",
@@ -1005,7 +1005,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822227"
+    "last_updated": "2025-09-09T06:54:21.810063"
   },
   "1432201": {
     "item_name": "Royal Von Leon Spear",
@@ -1023,7 +1023,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822231"
+    "last_updated": "2025-09-09T06:54:21.810066"
   },
   "1452111": {
     "item_name": "Falcon Wing Composite Bow",
@@ -1041,7 +1041,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822235"
+    "last_updated": "2025-09-09T06:54:21.810068"
   },
   "1352263": {
     "item_name": "Evolving Blasted Feather",
@@ -1059,7 +1059,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822240"
+    "last_updated": "2025-09-09T06:54:21.810070"
   },
   "1452283": {
     "item_name": "Unchained Bow",
@@ -1077,7 +1077,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822244"
+    "last_updated": "2025-09-09T06:54:21.810072"
   },
   "1352262": {
     "item_name": "Blasted Feather",
@@ -1095,7 +1095,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822248"
+    "last_updated": "2025-09-09T06:54:21.810075"
   },
   "1452239": {
     "item_name": "Royal Von Leon Bow",
@@ -1113,7 +1113,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822252"
+    "last_updated": "2025-09-09T06:54:21.810077"
   },
   "1352272": {
     "item_name": "True Shot",
@@ -1131,7 +1131,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822257"
+    "last_updated": "2025-09-09T06:54:21.810079"
   },
   "1462266": {
     "item_name": "Unchained Crossbow",
@@ -1149,7 +1149,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822261"
+    "last_updated": "2025-09-09T06:54:21.810081"
   },
   "1462226": {
     "item_name": "Royal Von Leon Crossbow",
@@ -1167,14 +1167,14 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822265"
+    "last_updated": "2025-09-09T06:54:21.810083"
   },
   "1352273": {
     "item_name": "Evolving True Shot",
     "image_url": "https://api-static.msu.io/itemimages/icon/1352273.png",
     "item_id": "1352273",
     "item_price": "377,777",
-    "status": "価格更新済み（7データ上下限フィルタリング正常価格）",
+    "status": "価格取得失敗",
     "categories": [
       "Weapon",
       "Secondary Weapon",
@@ -1203,7 +1203,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822274"
+    "last_updated": "2025-09-09T06:54:21.810086"
   },
   "1462222": {
     "item_name": "Zakum's Poisonic Crossbow",
@@ -1221,7 +1221,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822278"
+    "last_updated": "2025-09-09T06:54:21.810089"
   },
   "1452163": {
     "item_name": "Necro Longbow",
@@ -1239,7 +1239,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822282"
+    "last_updated": "2025-09-09T06:54:21.810091"
   },
   "1462153": {
     "item_name": "Necro Crossbow",
@@ -1257,7 +1257,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822287"
+    "last_updated": "2025-09-09T06:54:21.810093"
   },
   "1472122": {
     "item_name": "Raven Horn Metal Fist",
@@ -1275,7 +1275,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822291"
+    "last_updated": "2025-09-09T06:54:21.810096"
   },
   "1332130": {
     "item_name": "Raven Horn Baselard",
@@ -1293,7 +1293,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822295"
+    "last_updated": "2025-09-09T06:54:21.810098"
   },
   "1332301": {
     "item_name": "Unchained Dagger",
@@ -1311,7 +1311,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822299"
+    "last_updated": "2025-09-09T06:54:21.810100"
   },
   "1472286": {
     "item_name": "Unchained Guards",
@@ -1329,7 +1329,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822304"
+    "last_updated": "2025-09-09T06:54:21.810103"
   },
   "1352293": {
     "item_name": "Evolving Death Sender Charm",
@@ -1347,7 +1347,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822308"
+    "last_updated": "2025-09-09T06:54:21.810105"
   },
   "1352292": {
     "item_name": "Death Sender Charm",
@@ -1365,7 +1365,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822313"
+    "last_updated": "2025-09-09T06:54:21.810107"
   },
   "1472248": {
     "item_name": "Royal Von Leon Guards",
@@ -1383,7 +1383,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822317"
+    "last_updated": "2025-09-09T06:54:21.810110"
   },
   "1332261": {
     "item_name": "Royal Von Leon Dagger",
@@ -1401,7 +1401,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822322"
+    "last_updated": "2025-09-09T06:54:21.810112"
   },
   "1352283": {
     "item_name": "Evolving Slashing Shadow",
@@ -1419,7 +1419,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822327"
+    "last_updated": "2025-09-09T06:54:21.810114"
   },
   "1332187": {
     "item_name": "Necro Slayer",
@@ -1437,7 +1437,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822331"
+    "last_updated": "2025-09-09T06:54:21.810116"
   },
   "1352282": {
     "item_name": "Slashing Shadow",
@@ -1455,7 +1455,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822336"
+    "last_updated": "2025-09-09T06:54:21.810119"
   },
   "1472175": {
     "item_name": "Necro Bloody Mist",
@@ -1473,7 +1473,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822340"
+    "last_updated": "2025-09-09T06:54:21.810122"
   },
   "1472244": {
     "item_name": "Zakum's Poisonic Guards",
@@ -1491,7 +1491,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822344"
+    "last_updated": "2025-09-09T06:54:21.810124"
   },
   "1332257": {
     "item_name": "Zakum's Poisonic Dagger",
@@ -1509,7 +1509,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822349"
+    "last_updated": "2025-09-09T06:54:21.810126"
   },
   "1492085": {
     "item_name": "Shark Tooth Sharpshooter",
@@ -1527,7 +1527,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822353"
+    "last_updated": "2025-09-09T06:54:21.810128"
   },
   "1482084": {
     "item_name": "Shark Tooth Wild Talon",
@@ -1545,7 +1545,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822358"
+    "last_updated": "2025-09-09T06:54:21.810131"
   },
   "1492257": {
     "item_name": "Unchained Pistol",
@@ -1563,7 +1563,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822362"
+    "last_updated": "2025-09-09T06:54:21.810133"
   },
   "1482243": {
     "item_name": "Unchained Claw",
@@ -1581,7 +1581,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822367"
+    "last_updated": "2025-09-09T06:54:21.810135"
   },
   "1492213": {
     "item_name": "Royal Von Leon Pistol",
@@ -1599,7 +1599,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822372"
+    "last_updated": "2025-09-09T06:54:21.810138"
   },
   "1482203": {
     "item_name": "Royal Von Leon Claw",
@@ -1617,7 +1617,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822376"
+    "last_updated": "2025-09-09T06:54:21.810140"
   },
   "1352913": {
     "item_name": "Evolving Falcon Eye",
@@ -1635,7 +1635,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822381"
+    "last_updated": "2025-09-09T06:54:21.810142"
   },
   "1352903": {
     "item_name": "Evolving Wrist Armor",
@@ -1653,7 +1653,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822385"
+    "last_updated": "2025-09-09T06:54:21.810144"
   },
   "1352912": {
     "item_name": "Falcon Eye",
@@ -1671,7 +1671,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821345"
+    "last_updated": "2025-09-09T06:54:21.809862"
   },
   "1352902": {
     "item_name": "Wrist Armor",
@@ -1689,7 +1689,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821350"
+    "last_updated": "2025-09-09T06:54:21.809868"
   },
   "1492209": {
     "item_name": "Zakum's Poisonic Gun",
@@ -1707,7 +1707,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821355"
+    "last_updated": "2025-09-09T06:54:21.809872"
   },
   "1482199": {
     "item_name": "Zakum's Poisonic Knuckle",
@@ -1725,7 +1725,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821359"
+    "last_updated": "2025-09-09T06:54:21.809877"
   },
   "1482136": {
     "item_name": "Necro Wolf",
@@ -1743,7 +1743,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821363"
+    "last_updated": "2025-09-09T06:54:21.809882"
   },
   "1492136": {
     "item_name": "Necro Eagle",
@@ -1761,7 +1761,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821368"
+    "last_updated": "2025-09-09T06:54:21.809887"
   },
   "1042254": {
     "item_name": "Eagle Eye Warrior Armor",
@@ -1779,7 +1779,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821372"
+    "last_updated": "2025-09-09T06:54:21.809891"
   },
   "1003797": {
     "item_name": "Royal Warrior Helm",
@@ -1797,7 +1797,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821377"
+    "last_updated": "2025-09-09T06:54:21.809896"
   },
   "1072485": {
     "item_name": "Lionheart Battle Boots",
@@ -1815,7 +1815,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821381"
+    "last_updated": "2025-09-09T06:54:21.809901"
   },
   "1102275": {
     "item_name": "Lionheart Battle Cape",
@@ -1833,7 +1833,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821385"
+    "last_updated": "2025-09-09T06:54:21.809906"
   },
   "1052314": {
     "item_name": "Lionheart Battle Mail",
@@ -1851,7 +1851,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821390"
+    "last_updated": "2025-09-09T06:54:21.809910"
   },
   "1082613": {
     "item_name": "Royal Von Leon Warrior Hands",
@@ -1869,7 +1869,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821394"
+    "last_updated": "2025-09-09T06:54:21.809915"
   },
   "1003172": {
     "item_name": "Lionheart Battle Helm",
@@ -1887,7 +1887,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821399"
+    "last_updated": "2025-09-09T06:54:21.809920"
   },
   "1006514": {
     "item_name": "Unchained Warrior Helm",
@@ -1905,7 +1905,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821403"
+    "last_updated": "2025-09-09T06:54:21.809925"
   },
   "1082805": {
     "item_name": "Unchained Warrior Hands",
@@ -1923,7 +1923,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821408"
+    "last_updated": "2025-09-09T06:54:21.809929"
   },
   "1052804": {
     "item_name": "Royal Von Leon Warrior Suit",
@@ -1941,7 +1941,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821412"
+    "last_updated": "2025-09-09T06:54:21.809934"
   },
   "1073919": {
     "item_name": "Unchained Warrior Boots",
@@ -1959,7 +1959,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821416"
+    "last_updated": "2025-09-09T06:54:21.809939"
   },
   "1072972": {
     "item_name": "Royal Von Leon Warrior Boots",
@@ -1977,7 +1977,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821421"
+    "last_updated": "2025-09-09T06:54:21.809944"
   },
   "1004234": {
     "item_name": "Royal Von Leon Warrior Helm",
@@ -1995,7 +1995,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821425"
+    "last_updated": "2025-09-09T06:54:21.809949"
   },
   "1102713": {
     "item_name": "Royal Von Leon Warrior Cape",
@@ -2013,7 +2013,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821430"
+    "last_updated": "2025-09-09T06:54:21.809953"
   },
   "1003173": {
     "item_name": "Dragon Tail Mage Sallet",
@@ -2031,7 +2031,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821434"
+    "last_updated": "2025-09-09T06:54:21.809958"
   },
   "1152110": {
     "item_name": "Dragon Tail Mage Shoulder",
@@ -2049,7 +2049,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821438"
+    "last_updated": "2025-09-09T06:54:21.809963"
   },
   "1072486": {
     "item_name": "Dragon Tail Mage Shoes",
@@ -2067,7 +2067,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821443"
+    "last_updated": "2025-09-09T06:54:21.809968"
   },
   "1102276": {
     "item_name": "Dragon Tail Mage Cape",
@@ -2085,7 +2085,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821447"
+    "last_updated": "2025-09-09T06:54:21.809973"
   },
   "1082296": {
     "item_name": "Dragon Tail Mage Gloves",
@@ -2103,7 +2103,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821452"
+    "last_updated": "2025-09-09T06:54:21.809979"
   },
   "1052315": {
     "item_name": "Dragon Tail Mage Robe",
@@ -2121,7 +2121,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821456"
+    "last_updated": "2025-09-09T06:54:21.809984"
   },
   "1042255": {
     "item_name": "Eagle Eye Dunwitch Robe",
@@ -2139,7 +2139,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821460"
+    "last_updated": "2025-09-09T06:54:21.809987"
   },
   "1062166": {
     "item_name": "Trixter Dunwitch Pants",
@@ -2157,7 +2157,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821464"
+    "last_updated": "2025-09-09T06:54:21.809989"
   },
   "1003798": {
     "item_name": "Royal Dunwitch Hat",
@@ -2175,7 +2175,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821469"
+    "last_updated": "2025-09-09T06:54:21.809992"
   },
   "1006515": {
     "item_name": "Unchained Magician Helm",
@@ -2193,7 +2193,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821474"
+    "last_updated": "2025-09-09T06:54:21.809995"
   },
   "1073920": {
     "item_name": "Unchained Magician Boots",
@@ -2211,7 +2211,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821478"
+    "last_updated": "2025-09-09T06:54:21.809998"
   },
   "1082806": {
     "item_name": "Unchained Mage Hands",
@@ -2229,7 +2229,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821482"
+    "last_updated": "2025-09-09T06:54:21.810001"
   },
   "1054172": {
     "item_name": "Unchained Mage Suit",
@@ -2247,7 +2247,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821487"
+    "last_updated": "2025-09-09T06:54:21.810004"
   },
   "1052805": {
     "item_name": "Royal Von Leon Mage Suit",
@@ -2265,7 +2265,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821491"
+    "last_updated": "2025-09-09T06:54:21.810006"
   },
   "1004235": {
     "item_name": "Royal Von Leon Magician Helm",
@@ -2283,7 +2283,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821495"
+    "last_updated": "2025-09-09T06:54:21.810009"
   },
   "1072973": {
     "item_name": "Royal Von Leon Mage Boots",
@@ -2301,7 +2301,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821500"
+    "last_updated": "2025-09-09T06:54:21.810012"
   },
   "1102714": {
     "item_name": "Royal Von Leon Mage Cape",
@@ -2319,7 +2319,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821504"
+    "last_updated": "2025-09-09T06:54:21.810015"
   },
   "1082614": {
     "item_name": "Royal Von Leon Mage Hands",
@@ -2337,7 +2337,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821508"
+    "last_updated": "2025-09-09T06:54:21.810017"
   },
   "1082595": {
     "item_name": "Necromancer Sentinel Gloves",
@@ -2355,7 +2355,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821513"
+    "last_updated": "2025-09-09T06:54:21.810020"
   },
   "1072954": {
     "item_name": "Necromancer Sentinel Shoes",
@@ -2373,7 +2373,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821517"
+    "last_updated": "2025-09-09T06:54:21.810023"
   },
   "1052786": {
     "item_name": "Necromancer Sentinel Suit",
@@ -2391,7 +2391,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821522"
+    "last_updated": "2025-09-09T06:54:21.810026"
   },
   "1004216": {
     "item_name": "Necromancer Sentinel Hat",
@@ -2409,7 +2409,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821526"
+    "last_updated": "2025-09-09T06:54:21.810029"
   },
   "1004215": {
     "item_name": "Necromancer Magician Hat",
@@ -2427,7 +2427,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821530"
+    "last_updated": "2025-09-09T06:54:21.810031"
   },
   "1082594": {
     "item_name": "Necromancer Magician Gloves",
@@ -2445,7 +2445,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821535"
+    "last_updated": "2025-09-09T06:54:21.810034"
   },
   "1052785": {
     "item_name": "Necromancer Magician Suit",
@@ -2463,7 +2463,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821539"
+    "last_updated": "2025-09-09T06:54:21.810037"
   },
   "1072953": {
     "item_name": "Necromancer Magician Shoes",
@@ -2481,7 +2481,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821544"
+    "last_updated": "2025-09-09T06:54:21.810041"
   },
   "1004214": {
     "item_name": "Necromancer Warrior Hat",
@@ -2499,7 +2499,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821753"
+    "last_updated": "2025-09-09T06:54:21.810147"
   },
   "1072952": {
     "item_name": "Necromancer Warrior Shoes",
@@ -2517,7 +2517,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821758"
+    "last_updated": "2025-09-09T06:54:21.810149"
   },
   "1082593": {
     "item_name": "Necromancer Warrior Gloves",
@@ -2535,7 +2535,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821762"
+    "last_updated": "2025-09-09T06:54:21.810152"
   },
   "1052784": {
     "item_name": "Necromancer Warrior Suit",
@@ -2553,7 +2553,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821766"
+    "last_updated": "2025-09-09T06:54:21.810154"
   },
   "1082596": {
     "item_name": "Necromancer Chaser Gloves",
@@ -2571,7 +2571,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821771"
+    "last_updated": "2025-09-09T06:54:21.810157"
   },
   "1072955": {
     "item_name": "Necromancer Chaser Shoes",
@@ -2589,7 +2589,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821775"
+    "last_updated": "2025-09-09T06:54:21.810159"
   },
   "1004217": {
     "item_name": "Necromancer Chaser Hat",
@@ -2607,7 +2607,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821779"
+    "last_updated": "2025-09-09T06:54:21.810162"
   },
   "1052787": {
     "item_name": "Necromancer Chaser Suit",
@@ -2625,7 +2625,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821784"
+    "last_updated": "2025-09-09T06:54:21.810164"
   },
   "1072975": {
     "item_name": "Royal Von Leon Chaser Boots",
@@ -2643,7 +2643,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821788"
+    "last_updated": "2025-09-09T06:54:21.810167"
   },
   "1102716": {
     "item_name": "Royal Von Leon Chaser Cape",
@@ -2661,7 +2661,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821792"
+    "last_updated": "2025-09-09T06:54:21.810169"
   },
   "1082616": {
     "item_name": "Royal Von Leon Chaser Hands",
@@ -2679,7 +2679,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821796"
+    "last_updated": "2025-09-09T06:54:21.810172"
   },
   "1004237": {
     "item_name": "Royal Von Leon Chaser Helm",
@@ -2697,7 +2697,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821801"
+    "last_updated": "2025-09-09T06:54:21.810174"
   },
   "1052807": {
     "item_name": "Royal Von Leon Chaser Suit",
@@ -2715,7 +2715,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821805"
+    "last_updated": "2025-09-09T06:54:21.810176"
   },
   "1082808": {
     "item_name": "Unchained Chaser Hands",
@@ -2733,7 +2733,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821810"
+    "last_updated": "2025-09-09T06:54:21.810178"
   },
   "1054174": {
     "item_name": "Unchained Chaser Suit",
@@ -2751,7 +2751,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821814"
+    "last_updated": "2025-09-09T06:54:21.810181"
   },
   "1073922": {
     "item_name": "Unchained Chaser Boots",
@@ -2769,7 +2769,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821818"
+    "last_updated": "2025-09-09T06:54:21.810183"
   },
   "1006517": {
     "item_name": "Unchained Chaser Helm",
@@ -2787,7 +2787,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821822"
+    "last_updated": "2025-09-09T06:54:21.810185"
   },
   "1052317": {
     "item_name": "Raven Horn Chaser Armor",
@@ -2805,7 +2805,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821827"
+    "last_updated": "2025-09-09T06:54:21.810187"
   },
   "1003175": {
     "item_name": "Raven Horn Chaser Hat",
@@ -2823,7 +2823,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821831"
+    "last_updated": "2025-09-09T06:54:21.810190"
   },
   "1082298": {
     "item_name": "Raven Horn Chaser Gloves",
@@ -2841,7 +2841,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821835"
+    "last_updated": "2025-09-09T06:54:21.810192"
   },
   "1102278": {
     "item_name": "Raven Horn Chaser Cape",
@@ -2859,7 +2859,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821840"
+    "last_updated": "2025-09-09T06:54:21.810194"
   },
   "1072488": {
     "item_name": "Raven Horn Chaser Boots",
@@ -2877,7 +2877,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821844"
+    "last_updated": "2025-09-09T06:54:21.810196"
   },
   "1003800": {
     "item_name": "Royal Assassin Hood",
@@ -2895,7 +2895,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821849"
+    "last_updated": "2025-09-09T06:54:21.810199"
   },
   "1042257": {
     "item_name": "Eagle Eye Assassin Shirt",
@@ -2913,7 +2913,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821853"
+    "last_updated": "2025-09-09T06:54:21.810201"
   },
   "1004218": {
     "item_name": "Necromancer Skipper Hat",
@@ -2931,7 +2931,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821858"
+    "last_updated": "2025-09-09T06:54:21.810203"
   },
   "1072956": {
     "item_name": "Necromancer Skipper Shoes",
@@ -2949,7 +2949,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821862"
+    "last_updated": "2025-09-09T06:54:21.810206"
   },
   "1082597": {
     "item_name": "Necromancer Skipper Gloves",
@@ -2967,7 +2967,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821866"
+    "last_updated": "2025-09-09T06:54:21.810208"
   },
   "1052788": {
     "item_name": "Necromancer Skipper Suit",
@@ -2985,7 +2985,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821870"
+    "last_updated": "2025-09-09T06:54:21.810210"
   },
   "1082617": {
     "item_name": "Royal Von Leon Skipper Hands",
@@ -3003,7 +3003,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821875"
+    "last_updated": "2025-09-09T06:54:21.810213"
   },
   "1004238": {
     "item_name": "Royal Von Leon Skipper Helm",
@@ -3021,7 +3021,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821880"
+    "last_updated": "2025-09-09T06:54:21.810215"
   },
   "1102717": {
     "item_name": "Royal Von Leon Skipper Cape",
@@ -3039,7 +3039,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821884"
+    "last_updated": "2025-09-09T06:54:21.810217"
   },
   "1052808": {
     "item_name": "Royal Von Leon Skipper Suit",
@@ -3057,7 +3057,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821889"
+    "last_updated": "2025-09-09T06:54:21.810219"
   },
   "1072976": {
     "item_name": "Royal Von Leon Skipper Boots",
@@ -3075,7 +3075,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821893"
+    "last_updated": "2025-09-09T06:54:21.810222"
   },
   "1082809": {
     "item_name": "Unchained Skipper Hands",
@@ -3093,7 +3093,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821898"
+    "last_updated": "2025-09-09T06:54:21.810224"
   },
   "1006518": {
     "item_name": "Unchained Skipper Helm",
@@ -3111,7 +3111,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821902"
+    "last_updated": "2025-09-09T06:54:21.810226"
   },
   "1054175": {
     "item_name": "Unchained Skipper Suit",
@@ -3129,7 +3129,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821906"
+    "last_updated": "2025-09-09T06:54:21.810228"
   },
   "1073923": {
     "item_name": "Unchained Skipper Boots",
@@ -3147,7 +3147,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821911"
+    "last_updated": "2025-09-09T06:54:21.810231"
   },
   "1052318": {
     "item_name": "Shark Tooth Skipper Coat",
@@ -3165,7 +3165,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821915"
+    "last_updated": "2025-09-09T06:54:21.810233"
   },
   "1072489": {
     "item_name": "Shark Tooth Skipper Boots",
@@ -3183,7 +3183,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821920"
+    "last_updated": "2025-09-09T06:54:21.810235"
   },
   "1003801": {
     "item_name": "Royal Wanderer Hat",
@@ -3201,7 +3201,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821924"
+    "last_updated": "2025-09-09T06:54:21.810237"
   },
   "1042258": {
     "item_name": "Eagle Eye Wanderer Coat",
@@ -3219,7 +3219,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821929"
+    "last_updated": "2025-09-09T06:54:21.810240"
   },
   "1003176": {
     "item_name": "Shark Tooth Skipper Hat",
@@ -3237,7 +3237,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821933"
+    "last_updated": "2025-09-09T06:54:21.810242"
   },
   "1062169": {
     "item_name": "Trixter Wanderer Pants",
@@ -3255,7 +3255,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821938"
+    "last_updated": "2025-09-09T06:54:21.810245"
   },
   "1004637": {
     "item_name": "Enraged Zakum Helmet",
@@ -3277,7 +3277,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821942"
+    "last_updated": "2025-09-09T06:54:21.810247"
   },
   "1102871": {
     "item_name": "Enraged Zakum Cape",
@@ -3299,13 +3299,13 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821947"
+    "last_updated": "2025-09-09T06:54:21.810249"
   },
   "1132296": {
     "item_name": "Enraged Zakum Belt",
     "image_url": "https://api-static.msu.io/itemimages/icon/1132296.png",
     "item_id": "1132296",
-    "item_price": "475,000",
+    "item_price": "485,000",
     "status": "価格更新済み（7データ上下限フィルタリング正常価格）",
     "categories": [
       "Armor",
@@ -3321,14 +3321,14 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821951"
+    "last_updated": "2025-09-09T06:54:21.810252"
   },
   "1002357": {
     "item_name": "Zakum Helmet",
     "image_url": "https://api-static.msu.io/itemimages/icon/1002357.png",
     "item_id": "1002357",
     "item_price": "444,444",
-    "status": "価格更新済み（7データ上下限フィルタリング正常価格）",
+    "status": "価格取得失敗",
     "categories": [
       "Armor",
       "Armor",
@@ -3365,7 +3365,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821553"
+    "last_updated": "2025-09-09T06:54:21.809482"
   },
   "1003621": {
     "item_name": "Chaos Pink Bean Hat",
@@ -3387,7 +3387,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821558"
+    "last_updated": "2025-09-09T06:54:21.809501"
   },
   "1052526": {
     "item_name": "Chaos Pink Bean Suit",
@@ -3409,7 +3409,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821562"
+    "last_updated": "2025-09-09T06:54:21.809506"
   },
   "1012825": {
     "item_name": "Neophyte Mark",
@@ -3431,13 +3431,13 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821567"
+    "last_updated": "2025-09-09T06:54:21.809510"
   },
   "1012478": {
     "item_name": "Condensed Power Crystal",
     "image_url": "https://api-static.msu.io/itemimages/icon/1012478.png",
     "item_id": "1012478",
-    "item_price": "1,710,000",
+    "item_price": "1,680,000",
     "status": "価格更新済み（7データ上下限フィルタリング正常価格）",
     "categories": [
       "Armor",
@@ -3453,13 +3453,13 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821571"
+    "last_updated": "2025-09-09T06:54:21.809513"
   },
   "1022334": {
     "item_name": "Neophyte Eye Accessory",
     "image_url": "https://api-static.msu.io/itemimages/icon/1022334.png",
     "item_id": "1022334",
-    "item_price": "949,990",
+    "item_price": "949,999",
     "status": "価格更新済み（7データ上下限フィルタリング正常価格）",
     "categories": [
       "Armor",
@@ -3475,7 +3475,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821575"
+    "last_updated": "2025-09-09T06:54:21.809516"
   },
   "1022231": {
     "item_name": "Aquatic Letter Eye Accessory",
@@ -3497,7 +3497,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821580"
+    "last_updated": "2025-09-09T06:54:21.809519"
   },
   "1032227": {
     "item_name": "Ifia's Earrings",
@@ -3519,7 +3519,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821584"
+    "last_updated": "2025-09-09T06:54:21.809522"
   },
   "1032241": {
     "item_name": "Dea Sidus Earring",
@@ -3541,7 +3541,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821588"
+    "last_updated": "2025-09-09T06:54:21.809526"
   },
   "1032339": {
     "item_name": "Neophyte Earrings",
@@ -3563,7 +3563,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821593"
+    "last_updated": "2025-09-09T06:54:21.809529"
   },
   "1032136": {
     "item_name": "Will o' the Wisps",
@@ -3585,7 +3585,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821597"
+    "last_updated": "2025-09-09T06:54:21.809532"
   },
   "1113089": {
     "item_name": "Ifia's Ring",
@@ -3607,13 +3607,13 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821601"
+    "last_updated": "2025-09-09T06:54:21.809535"
   },
   "1113149": {
     "item_name": "Silver Blossom Ring",
     "image_url": "https://api-static.msu.io/itemimages/icon/1113149.png",
     "item_id": "1113149",
-    "item_price": "1,487,500",
+    "item_price": "1,488,000",
     "status": "価格更新済み（7データ上下限フィルタリング正常価格）",
     "categories": [
       "Armor",
@@ -3629,7 +3629,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821606"
+    "last_updated": "2025-09-09T06:54:21.809538"
   },
   "1113282": {
     "item_name": "Noble Ifia's Ring",
@@ -3651,14 +3651,14 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821610"
+    "last_updated": "2025-09-09T06:54:21.809541"
   },
   "1113334": {
     "item_name": "Neophyte Ring",
     "image_url": "https://api-static.msu.io/itemimages/icon/1113334.png",
     "item_id": "1113334",
     "item_price": "7,828,888",
-    "status": "価格更新済み（7データ上下限フィルタリング正常価格）",
+    "status": "価格取得失敗",
     "categories": [
       "Armor",
       "Accessory",
@@ -3695,7 +3695,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821620"
+    "last_updated": "2025-09-09T06:54:21.809545"
   },
   "1122000": {
     "item_name": "Horntail Necklace",
@@ -3717,7 +3717,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821624"
+    "last_updated": "2025-09-09T06:54:21.809548"
   },
   "1122254": {
     "item_name": "Mechanator Pendant",
@@ -3739,7 +3739,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821629"
+    "last_updated": "2025-09-09T06:54:21.809551"
   },
   "1122076": {
     "item_name": "Chaos Horntail Necklace",
@@ -3761,7 +3761,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821633"
+    "last_updated": "2025-09-09T06:54:21.809554"
   },
   "1122446": {
     "item_name": "Neophyte Pendant",
@@ -3783,7 +3783,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821638"
+    "last_updated": "2025-09-09T06:54:21.809558"
   },
   "1122150": {
     "item_name": "Dominator Pendant",
@@ -3805,7 +3805,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821642"
+    "last_updated": "2025-09-09T06:54:21.809561"
   },
   "1132324": {
     "item_name": "Neophyte Belt",
@@ -3827,7 +3827,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821647"
+    "last_updated": "2025-09-09T06:54:21.809564"
   },
   "1132272": {
     "item_name": "Golden Clover Belt",
@@ -3849,7 +3849,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821651"
+    "last_updated": "2025-09-09T06:54:21.809567"
   },
   "1152223": {
     "item_name": "Neophyte Shoulders",
@@ -3871,7 +3871,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821656"
+    "last_updated": "2025-09-09T06:54:21.809570"
   },
   "1152170": {
     "item_name": "Royal Black Metal Shoulder",
@@ -3893,7 +3893,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821660"
+    "last_updated": "2025-09-09T06:54:21.809573"
   },
   "1162009": {
     "item_name": "Stone of Eternal Life",
@@ -3915,7 +3915,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821665"
+    "last_updated": "2025-09-09T06:54:21.809576"
   },
   "1162025": {
     "item_name": "Pink Holy Cup",
@@ -3937,7 +3937,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821669"
+    "last_updated": "2025-09-09T06:54:21.809579"
   },
   "1182087": {
     "item_name": "Crystal Ventus Badge",
@@ -3959,7 +3959,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821674"
+    "last_updated": "2025-09-09T06:54:21.809583"
   },
   "1182194": {
     "item_name": "Badge of Chiu",
@@ -3981,7 +3981,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821678"
+    "last_updated": "2025-09-09T06:54:21.809586"
   },
   "1182199": {
     "item_name": "Badge of Junna",
@@ -4003,7 +4003,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821682"
+    "last_updated": "2025-09-09T06:54:21.809589"
   },
   "1182197": {
     "item_name": "Badge of Pruba",
@@ -4025,7 +4025,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821687"
+    "last_updated": "2025-09-09T06:54:21.809592"
   },
   "1182196": {
     "item_name": "Badge of Donarr",
@@ -4047,7 +4047,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821691"
+    "last_updated": "2025-09-09T06:54:21.809595"
   },
   "1182198": {
     "item_name": "Badge of Saturnus",
@@ -4069,7 +4069,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821695"
+    "last_updated": "2025-09-09T06:54:21.809599"
   },
   "1182195": {
     "item_name": "Badge of Wodan",
@@ -4091,7 +4091,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821700"
+    "last_updated": "2025-09-09T06:54:21.809602"
   },
   "1182200": {
     "item_name": "Seven Days Badge",
@@ -4113,7 +4113,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821704"
+    "last_updated": "2025-09-09T06:54:21.809605"
   },
   "1190300": {
     "item_name": "Silver Maple Leaf Emblem",
@@ -4135,7 +4135,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821709"
+    "last_updated": "2025-09-09T06:54:21.809609"
   },
   "1190301": {
     "item_name": "Gold Maple Leaf Emblem",
@@ -4157,7 +4157,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821713"
+    "last_updated": "2025-09-09T06:54:21.809612"
   },
   "1022232": {
     "item_name": "Black Bean Mark",
@@ -4179,7 +4179,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821718"
+    "last_updated": "2025-09-09T06:54:21.809615"
   },
   "1312182": {
     "item_name": "Zakum's Poisonic Axe",
@@ -4197,7 +4197,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821722"
+    "last_updated": "2025-09-09T06:54:21.809618"
   },
   "1302312": {
     "item_name": "Zakum's Poisonic Sword",
@@ -4215,7 +4215,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821727"
+    "last_updated": "2025-09-09T06:54:21.809621"
   },
   "1322233": {
     "item_name": "Zakum's Poisonic Hammer",
@@ -4233,7 +4233,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821731"
+    "last_updated": "2025-09-09T06:54:21.809624"
   },
   "1442251": {
     "item_name": "Zakum's Poisonic Polearm",
@@ -4251,7 +4251,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821735"
+    "last_updated": "2025-09-09T06:54:21.809627"
   },
   "1412161": {
     "item_name": "Zakum's Poisonic Two-handed Axe",
@@ -4269,7 +4269,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821740"
+    "last_updated": "2025-09-09T06:54:21.809630"
   },
   "1422168": {
     "item_name": "Zakum's Poisonic Sledgehammer",
@@ -4287,7 +4287,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821744"
+    "last_updated": "2025-09-09T06:54:21.809633"
   },
   "1402233": {
     "item_name": "Zakum's Poisonic Two-handed Sword",
@@ -4305,7 +4305,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821749"
+    "last_updated": "2025-09-09T06:54:21.809636"
   },
   "1432197": {
     "item_name": "Zakum's Poisonic Spear",
@@ -4323,7 +4323,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821095"
+    "last_updated": "2025-09-09T06:54:21.809639"
   },
   "1312112": {
     "item_name": "Necro Headsplitter",
@@ -4341,7 +4341,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821125"
+    "last_updated": "2025-09-09T06:54:21.809642"
   },
   "1302213": {
     "item_name": "Necro Terror",
@@ -4359,13 +4359,13 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821136"
+    "last_updated": "2025-09-09T06:54:21.809644"
   },
   "1442171": {
     "item_name": "Necro Polearm",
     "image_url": "https://api-static.msu.io/itemimages/icon/1442171.png",
     "item_id": "1442171",
-    "item_price": "168,888",
+    "item_price": "170,000",
     "status": "価格更新済み（7データ上下限フィルタリング正常価格）",
     "categories": [
       "Weapon",
@@ -4377,7 +4377,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821145"
+    "last_updated": "2025-09-09T06:54:21.809647"
   },
   "1412100": {
     "item_name": "Necro Giant Axe",
@@ -4395,7 +4395,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821151"
+    "last_updated": "2025-09-09T06:54:21.809650"
   },
   "1322151": {
     "item_name": "Necro Hammer",
@@ -4413,7 +4413,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821155"
+    "last_updated": "2025-09-09T06:54:21.809653"
   },
   "1402143": {
     "item_name": "Necro Zweihander",
@@ -4431,7 +4431,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821161"
+    "last_updated": "2025-09-09T06:54:21.809656"
   },
   "1422103": {
     "item_name": "Necro Maul",
@@ -4449,7 +4449,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821166"
+    "last_updated": "2025-09-09T06:54:21.809659"
   },
   "1432133": {
     "item_name": "Necro Spear",
@@ -4467,7 +4467,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821170"
+    "last_updated": "2025-09-09T06:54:21.809662"
   },
   "1402095": {
     "item_name": "Lionheart Battle Scimitar",
@@ -4485,7 +4485,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821176"
+    "last_updated": "2025-09-09T06:54:21.809665"
   },
   "1432086": {
     "item_name": "Lionheart Fuscina",
@@ -4503,7 +4503,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821180"
+    "last_updated": "2025-09-09T06:54:21.809668"
   },
   "1372084": {
     "item_name": "Dragon Tail Arc Wand",
@@ -4521,7 +4521,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821185"
+    "last_updated": "2025-09-09T06:54:21.809671"
   },
   "1382104": {
     "item_name": "Dragon Tail War Staff",
@@ -4539,7 +4539,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821189"
+    "last_updated": "2025-09-09T06:54:21.809674"
   },
   "1462099": {
     "item_name": "Falcon Wing Heavy Crossbow",
@@ -4557,7 +4557,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821194"
+    "last_updated": "2025-09-09T06:54:21.809676"
   },
   "1006516": {
     "item_name": "Unchained Sentinel Helm",
@@ -4575,7 +4575,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821198"
+    "last_updated": "2025-09-09T06:54:21.809679"
   },
   "1082807": {
     "item_name": "Unchained Sentinel Hands",
@@ -4593,7 +4593,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821203"
+    "last_updated": "2025-09-09T06:54:21.809683"
   },
   "1073921": {
     "item_name": "Unchained Sentinel Boots",
@@ -4611,7 +4611,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821208"
+    "last_updated": "2025-09-09T06:54:21.809685"
   },
   "1054173": {
     "item_name": "Unchained Sentinel Suit",
@@ -4629,7 +4629,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821212"
+    "last_updated": "2025-09-09T06:54:21.809689"
   },
   "1054171": {
     "item_name": "Unchained Warrior Suit",
@@ -4647,7 +4647,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821217"
+    "last_updated": "2025-09-09T06:54:21.809692"
   },
   "1072974": {
     "item_name": "Royal Von Leon Sentinel Boots",
@@ -4665,7 +4665,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821221"
+    "last_updated": "2025-09-09T06:54:21.809695"
   },
   "1102715": {
     "item_name": "Royal Von Leon Sentinel Cape",
@@ -4683,7 +4683,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821226"
+    "last_updated": "2025-09-09T06:54:21.809698"
   },
   "1004236": {
     "item_name": "Royal Von Leon Sentinel Helm",
@@ -4701,7 +4701,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821230"
+    "last_updated": "2025-09-09T06:54:21.809731"
   },
   "1052806": {
     "item_name": "Royal Von Leon Sentinel Suit",
@@ -4719,7 +4719,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821235"
+    "last_updated": "2025-09-09T06:54:21.809738"
   },
   "1082615": {
     "item_name": "Royal Von Leon Sentinel Hands",
@@ -4737,7 +4737,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821240"
+    "last_updated": "2025-09-09T06:54:21.809744"
   },
   "1052316": {
     "item_name": "Falcon Wing Sentinel Suit",
@@ -4755,7 +4755,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821245"
+    "last_updated": "2025-09-09T06:54:21.809749"
   },
   "1003174": {
     "item_name": "Falcon Wing Sentinel Cap",
@@ -4773,7 +4773,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821250"
+    "last_updated": "2025-09-09T06:54:21.809755"
   },
   "1072487": {
     "item_name": "Falcon Wing Sentinel Boots",
@@ -4791,7 +4791,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821254"
+    "last_updated": "2025-09-09T06:54:21.809760"
   },
   "1082297": {
     "item_name": "Falcon Wing Sentinel Gloves",
@@ -4809,7 +4809,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821259"
+    "last_updated": "2025-09-09T06:54:21.809765"
   },
   "1102277": {
     "item_name": "Falcon Wing Sentinel Cape",
@@ -4827,7 +4827,7 @@
       "Bowman"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821263"
+    "last_updated": "2025-09-09T06:54:21.809770"
   },
   "1102279": {
     "item_name": "Shark Tooth Skipper Cape",
@@ -4845,7 +4845,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821268"
+    "last_updated": "2025-09-09T06:54:21.809775"
   },
   "1082299": {
     "item_name": "Shark Tooth Skipper Gloves",
@@ -4863,7 +4863,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821272"
+    "last_updated": "2025-09-09T06:54:21.809780"
   },
   "1082295": {
     "item_name": "Lionheart Battle Bracers",
@@ -4881,7 +4881,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821277"
+    "last_updated": "2025-09-09T06:54:21.809785"
   },
   "1422140": {
     "item_name": "Fafnir Lightning Striker",
@@ -4899,7 +4899,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821281"
+    "last_updated": "2025-09-09T06:54:21.809790"
   },
   "1412135": {
     "item_name": "Fafnir Battle Cleaver",
@@ -4917,7 +4917,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821286"
+    "last_updated": "2025-09-09T06:54:21.809795"
   },
   "1332225": {
     "item_name": "Fafnir Damascus",
@@ -4935,7 +4935,7 @@
       "Thief"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821291"
+    "last_updated": "2025-09-09T06:54:21.809801"
   },
   "1402196": {
     "item_name": "Fafnir Penitent Tears",
@@ -4953,7 +4953,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821295"
+    "last_updated": "2025-09-09T06:54:21.809806"
   },
   "1322203": {
     "item_name": "Fafnir Guardian Hammer",
@@ -4971,7 +4971,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821300"
+    "last_updated": "2025-09-09T06:54:21.809811"
   },
   "1372177": {
     "item_name": "Fafnir Mana Taker",
@@ -4989,7 +4989,7 @@
       "Magician"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821304"
+    "last_updated": "2025-09-09T06:54:21.809816"
   },
   "1003622": {
     "item_name": "Black Bean Hat",
@@ -5011,7 +5011,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821309"
+    "last_updated": "2025-09-09T06:54:21.809821"
   },
   "1052527": {
     "item_name": "Black Bean Suit",
@@ -5033,13 +5033,13 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821313"
+    "last_updated": "2025-09-09T06:54:21.809826"
   },
   "1072376": {
     "item_name": "Balrog's Fur Shoes",
     "image_url": "https://api-static.msu.io/itemimages/icon/1072376.png",
     "item_id": "1072376",
-    "item_price": "450,000",
+    "item_price": "410,000",
     "status": "価格更新済み（7データ上下限フィルタリング正常価格）",
     "categories": [
       "Armor",
@@ -5055,7 +5055,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821317"
+    "last_updated": "2025-09-09T06:54:21.809832"
   },
   "1003721": {
     "item_name": "Chaos Queen's Tiara",
@@ -5077,7 +5077,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821322"
+    "last_updated": "2025-09-09T06:54:21.809837"
   },
   "1003717": {
     "item_name": "Queen's Tiara",
@@ -5099,7 +5099,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821327"
+    "last_updated": "2025-09-09T06:54:21.809842"
   },
   "1003720": {
     "item_name": "Chaos Von Bon Helmet",
@@ -5121,7 +5121,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821331"
+    "last_updated": "2025-09-09T06:54:21.809847"
   },
   "1003716": {
     "item_name": "Von Bon Helmet",
@@ -5143,7 +5143,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821336"
+    "last_updated": "2025-09-09T06:54:21.809852"
   },
   "1003719": {
     "item_name": "Chaos Pierre Hat",
@@ -5165,7 +5165,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.821340"
+    "last_updated": "2025-09-09T06:54:21.809857"
   },
   "1003715": {
     "item_name": "Pierre Hat",
@@ -5187,7 +5187,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822390"
+    "last_updated": "2025-09-09T06:54:21.810360"
   },
   "1003722": {
     "item_name": "Chaos Vellum's Helm",
@@ -5209,7 +5209,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822394"
+    "last_updated": "2025-09-09T06:54:21.810363"
   },
   "1003718": {
     "item_name": "Vellum's Helm",
@@ -5231,7 +5231,7 @@
       "Pirate"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822399"
+    "last_updated": "2025-09-09T06:54:21.810366"
   },
   "1402180": {
     "item_name": "Liberated Kaiserium",
@@ -5249,7 +5249,7 @@
       "Warrior"
     ],
     "supply_info": {},
-    "last_updated": "2025-09-09T06:35:24.822404"
+    "last_updated": "2025-09-09T06:54:21.810368"
   },
   "": {
     "item_name": "",
