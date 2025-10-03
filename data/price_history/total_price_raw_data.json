@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2025-07-17T03:46:06.123832",
-    "total_price": 570470775,
-    "average_price": 2037395,
-    "item_count": 280
-  },
-  {
     "timestamp": "2025-07-17T04:31:23.160320",
     "total_price": 571248130,
     "average_price": 2040171,
@@ -17277,6 +17271,12 @@
     "timestamp": "2025-10-03T14:59:53.853345",
     "total_price": 232872679,
     "average_price": 831688,
+    "item_count": 280
+  },
+  {
+    "timestamp": "2025-10-03T15:49:24.087395",
+    "total_price": 234526188,
+    "average_price": 837593,
     "item_count": 280
   }
 ]
